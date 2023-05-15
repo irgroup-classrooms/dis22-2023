@@ -1,0 +1,10 @@
+{
+    "name": "Edith",
+    "age": 75,
+    "gender": "female",
+    "job": "retired",
+    "goal": "researching background information",
+    "residence": "suburbs of san diego",
+    "query_length": 4,
+    "complexity": null
+}
