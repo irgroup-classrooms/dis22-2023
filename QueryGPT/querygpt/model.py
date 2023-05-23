@@ -82,7 +82,7 @@ class Query():
 
     def _load_querie(self, query_fn: str):
         """load a query from a file"""
-        return open(query_fn).read()
+        return open(query_fn, encoding= "utf-8").read()
 
     def add_custom_query_from_file(self, query_fn: str, query_type: str = None) -> None:
         """Add a custom query from a file

@@ -1,5 +1,9 @@
-Instructions:
-I want you to formulate queries about a specific topic. When writing the queries write them in the style of $PERSONA_NAME who wants to identify relevant document for a specific topic to fulfill the goal of $PERSONA_GOAL. When creating the queries think of what $PERSONA_NAME is interested in. For example when searching for the Topic "New Hydroelectric Topics" think: What information does $PERSONA_NAME need to fulfill the goal of $PERSONA_GOAL?. Make sure the queries as realistic as possible. That means that when writing the queries use words that are realistic given that $PERSONA_NAME is $PERSONA_AGE. Would a $PERSONA_AGE year old use words like $PERSONA_WORD_EXAMPLE. Also adhere roughly to the length of $PERSONA_QUERY_LENGTH words, as it would be unrealistic for $PERSONA_NAME to write different length queries. Formulate your words $PERSONA_COMPLEXITY. When writing the Queries also remember that $PERSONA_NAME is $PERSONA_GENDER. Format the queries as a python dictionary. Write them with the following steps:
+I want you to formulate queries about a specific topic. When writing the queries write them in the style of $PERSONA_NAME who wants to identify relevant document for the specific topic, to fulfill their goal of $PERSONA_GOAL. 
+When creating the queries think of what $PERSONA_NAME is interested in given their profession $PERSONA_PROFESSION. What information does $PERSONA_NAME need to fulfill their goal of $PERSONA_GOAL?. 
+Make sure the queries are as realistic as possible. That means that when writing the queries use words that are realistic given that $PERSONA_NAME is $PERSONA_AGE years old. 
+Also add here roughly to the length of $PERSONA_QUERY_LENGTH words, as it would be unrealistic for $PERSONA_NAME to write different length queries. 
+Consider that $PERSONA_NAME is from $PERSONA_RESIDENCE if the topic can have a relation to $PERSONA_RESIDENCE. Formulate your words $PERSONA_COMPLEXITY. When writing the Queries also remember that $PERSONA_NAME is $PERSONA_GENDER. 
+Format the queries as a python dictionary. Write them with the following steps:
 
 1. (keywords): Take in the description of the topic and identify important keywords that fit to what $PERSONA_NAME needs to know, to $PERSONA_GOAL.
 2. (Questions): Use the keywords to formulate real Questions in the form of full sentences.
