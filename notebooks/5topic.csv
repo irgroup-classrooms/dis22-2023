@@ -1,0 +1,201 @@
+,index,queries,topic,persona
+0,1,radio waves,1,edith
+1,2,brain cancer,1,edith
+2,3,incidence brain cancer general population,1,edith
+3,4,incidence brain cancer radio towers,1,edith
+4,5,incidence brain cancer mobile phones,1,edith
+5,6,direct association radio waves brain cancer,1,edith
+6,7,experiments radio waves brain cancer,1,edith
+7,8,statistical studies radio waves brain cancer,1,edith
+8,9,articles brain cancer radio towers mobile phones,1,edith
+9,10,news items brain cancer radio towers mobile phones,1,edith
+0,1,women parliament representation,2,edith
+1,2,countries mandate women legislatures,2,edith
+2,3,female representation trend legislatures,2,edith
+3,4,no women representation legislatures,2,edith
+4,5,women representation Third World,2,edith
+5,6,political power gap sexes,2,edith
+6,7,history women parliaments,2,edith
+7,8,challenges women parliaments,2,edith
+8,9,benefits women parliaments,2,edith
+9,10,increase women representation parliaments,2,edith
+0,1,cult,3,edith
+1,2,cults,3,edith
+2,3,cult names,3,edith
+3,4,cult member lifestyles,3,edith
+4,5,cult member dress,3,edith
+5,6,cult member ultimate goal,3,edith
+6,7,cult member diet,3,edith
+7,8,cult member contribution,3,edith
+8,9,cult ultimate goal,3,edith
+9,10,cult history,3,edith
+0,1,Iran-Iraq relations history,4,edith
+1,2,Iran-Iraq economic cooperation,4,edith
+2,3,Iran-Iraq military cooperation,4,edith
+3,4,Iran-Iraq religious cooperation,4,edith
+4,5,Iran-Iraq social relations,4,edith
+5,6,Iran-Iraq border control collaboration,4,edith
+6,7,Iran-Iraq minorities treatment collaboration,4,edith
+7,8,Iran-Iraq trade sanctions workaround,4,edith
+8,9,Iran-Iraq cooperation benefits,4,edith
+9,10,Iran-Iraq cooperation challenges,4,edith
+0,1,black bear attack causes,5,edith
+1,2,black bear attack attractants,5,edith
+2,3,black bear attack frequency worldwide,5,edith
+3,4,savage behavior in black bears,5,edith
+4,5,wildlife officials control black bears,5,edith
+5,6,new methods modify black bears,5,edith
+6,7,scientific community speculate black bear attacks,5,edith
+7,8,food cosmetics black bear behavior,5,edith
+8,9,consequences black bear attacks,5,edith
+9,10,preventive measures black bear attacks,5,edith
+0,1,radio waves brain cancer,1,john
+1,2,radio towers brain cancer,1,john
+2,3,mobile phones brain cancer,1,john
+3,4,direct association radio waves brain cancer,1,john
+4,5,incidence brain cancer radio towers,1,john
+5,6,incidence brain cancer mobile phones,1,john
+6,7,incidence brain cancer radio towers mobile phones normal population,1,john
+7,8,animal experiments radio waves brain cancer,1,john
+8,9,statistical studies radio waves brain cancer,1,john
+9,10,articles news items brain cancer radio towers mobile phones normal population,1,john
+0,1,women parliament representation,2,john
+1,2,countries mandate women legislatures,2,john
+2,3,percentage women legislatures countries,2,john
+3,4,decreases female representation legislatures,2,john
+4,5,reasons lack women parliament representation,2,john
+5,6,political power gap sexes parliaments,2,john
+6,7,women parliament representation Third World,2,john
+7,8,consequences lack women parliament representation,2,john
+8,9,initiatives increase women parliament representation,2,john
+9,10,close political power gap sexes parliaments,2,john
+0,1,cult,3,john
+1,2,cults,3,john
+2,3,cult names,3,john
+3,4,cult member lifestyles,3,john
+4,5,cult member dress,3,john
+5,6,cult member ultimate goal,3,john
+6,7,cult member diet,3,john
+7,8,cult member contribution,3,john
+8,9,cult existence,3,john
+9,10,cult name member activities everyday life,3,john
+0,1,Iran-Iraq relations history,4,john
+1,2,Iran-Iraq economic cooperation,4,john
+2,3,Iran-Iraq military cooperation,4,john
+3,4,Iran-Iraq religious cooperation,4,john
+4,5,Iran-Iraq social relations,4,john
+5,6,Iran-Iraq border control,4,john
+6,7,Iran-Iraq minorities treatment,4,john
+7,8,Iran-Iraq trade sanctions,4,john
+8,9,Iran-Iraq cooperation benefits,4,john
+9,10,Iran-Iraq cooperation drawbacks,4,john
+0,1,black bear attack frequency,5,john
+1,2,causes of black bear attacks,5,john
+2,3,black bear attack attraction,5,john
+3,4,scientific community speculation black bear attacks,5,john
+4,5,wildlife officials control black bear attacks,5,john
+5,6,new methods modify black bear savageness,5,john
+6,7,common causes black bear attacks,5,john
+7,8,prevent black bear attacks,5,john
+8,9,consequences black bear attack,5,john
+9,10,legal implications black bear attack,5,john
+0,1,radio waves,1,karen
+1,2,brain cancer,1,karen
+2,3,radio waves association brain cancer,1,karen
+3,4,brain cancer incidence radio towers,1,karen
+4,5,brain cancer incidence mobile phones,1,karen
+5,6,brain cancer incidence radio towers mobile phones,1,karen
+6,7,radio waves effects brain cancer experiments,1,karen
+7,8,radio waves association brain cancer statistical studies,1,karen
+8,9,radio waves association brain cancer articles,1,karen
+9,10,brain cancer incidence radio towers mobile phones news items,1,karen
+0,1,women parliament representation,2,karen
+1,2,countries mandate women legislatures,2,karen
+2,3,female representation trend legislatures,2,karen
+3,4,countries no women representation,2,karen
+4,5,political power gap sexes parliaments,2,karen
+5,6,women representation Third World,2,karen
+6,7,reasons lack women representation parliaments,2,karen
+7,8,consequences lack women representation parliaments,2,karen
+8,9,benefits women representation parliaments,2,karen
+9,10,initiatives increase women representation parliaments,2,karen
+0,1,cult definition,3,karen
+1,2,cults,3,karen
+2,3,cult names,3,karen
+3,4,cult member lifestyles,3,karen
+4,5,cult member dress,3,karen
+5,6,cult ultimate goal,3,karen
+6,7,cult member diet,3,karen
+7,8,cult member contribution,3,karen
+8,9,cult member activities,3,karen
+9,10,cult member daily routine,3,karen
+0,1,Iran-Iraq relations history,4,karen
+1,2,Iran-Iraq economic cooperation,4,karen
+2,3,Iran-Iraq military cooperation,4,karen
+3,4,Iran-Iraq religious cooperation,4,karen
+4,5,Iran-Iraq social cooperation,4,karen
+5,6,Iran-Iraq border control collaboration,4,karen
+6,7,Iran-Iraq minorities treatment,4,karen
+7,8,Iran-Iraq trade sanctions evasion,4,karen
+8,9,Iran-Iraq cooperation benefits,4,karen
+9,10,Iran-Iraq cooperation challenges,4,karen
+0,1,black bear attacks causes,5,karen
+1,2,black bear attacks attraction,5,karen
+2,3,black bear attacks frequency worldwide,5,karen
+3,4,black bear savage behavior causes,5,karen
+4,5,wildlife officials control black bears,5,karen
+5,6,new methods modify black bears,5,karen
+6,7,scientific community speculation black bear attacks,5,karen
+7,8,food cosmetics black bear behavior,5,karen
+8,9,consequences black bear attacks humans,5,karen
+9,10,precautions prevent black bear attacks,5,karen
+0,1,radio waves,1,markus
+1,2,brain cancer,1,markus
+2,3,radio waves brain cancer association,1,markus
+3,4,brain cancer incidence radio towers,1,markus
+4,5,brain cancer incidence mobile phones,1,markus
+5,6,brain cancer incidence radio towers mobile phones,1,markus
+6,7,radio waves brain cancer experiments,1,markus
+7,8,brain cancer incidence statistical studies radio towers mobile phones,1,markus
+8,9,radio waves brain cancer articles,1,markus
+9,10,brain cancer incidence news items radio towers mobile phones,1,markus
+0,1,women parliament representation,2,markus
+1,2,women poor parliament representation,2,markus
+2,3,countries mandate women legislature,2,markus
+3,4,percentage women legislature countries,2,markus
+4,5,decreases female representation legislature,2,markus
+5,6,political power gap Third World,2,markus
+6,7,consequences lack women parliament representation,2,markus
+7,8,challenges women politics,2,markus
+8,9,benefits women parliament representation,2,markus
+9,10,increase women parliament representation,2,markus
+0,1,cult definition,3,markus
+1,2,cults,3,markus
+2,3,cult names,3,markus
+3,4,cult member lifestyles,3,markus
+4,5,cult member dress,3,markus
+5,6,cult member goal attainment,3,markus
+6,7,cult member diet,3,markus
+7,8,cult member contribution,3,markus
+8,9,cult member activities,3,markus
+9,10,cult name member lifestyles,3,markus
+0,1,Iran-Iraq relations history,4,markus
+1,2,Iran-Iraq economic cooperation,4,markus
+2,3,Iran-Iraq military cooperation,4,markus
+3,4,Iran-Iraq religious cooperation,4,markus
+4,5,Iran-Iraq social relations,4,markus
+5,6,Iran-Iraq border control,4,markus
+6,7,Iran-Iraq minorities treatment,4,markus
+7,8,Iran-Iraq trade sanctions,4,markus
+8,9,Iran-Iraq cooperation benefits,4,markus
+9,10,Iran-Iraq cooperation challenges,4,markus
+0,1,black bear attacks,5,markus
+1,2,causes of black bear attacks,5,markus
+2,3,black bear attacks on humans,5,markus
+3,4,scientific community opinion black bear attacks,5,markus
+4,5,possible causes black bear attacks,5,markus
+5,6,wildlife officials control black bear attacks,5,markus
+6,7,new methods modify black bear savageness,5,markus
+7,8,frequency black bear attacks worldwide,5,markus
+8,9,consequences black bear attacks,5,markus
+9,10,prevent black bear attacks,5,markus
