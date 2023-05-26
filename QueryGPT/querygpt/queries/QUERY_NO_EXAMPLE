@@ -12,7 +12,7 @@ Format the queries as a python dictionary. Write them with the following steps:
 Use the following framework for the dictionary: 
 
 {
-"keywords": ["keyword 1", "keyword 2", ..., "keyword n"],
+"keywords": ["keyword 1", "keyword 2", "keyword 3"],
 "questions" : {
 1 : "question 1", 
 2: "question 2", 
