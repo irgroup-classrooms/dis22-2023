@@ -1,0 +1,201 @@
+,index,queries,topic,persona
+0,1,Antarctica,11,edith
+1,2,systematic exploration,11,edith
+2,3,scientific investigations,11,edith
+3,4,seismology,11,edith
+4,5,ionospheric physics,11,edith
+5,6,economic development,11,edith
+6,7,research in Antarctica,11,edith
+7,8,planned research in Antarctica,11,edith
+8,9,mineral mining ban Antarctica,11,edith
+9,10,impact mineral mining Antarctica,11,edith
+0,1,journalist risks,12,edith
+1,2,journalist killed instances,12,edith
+2,3,journalist arrested instances,12,edith
+3,4,journalist taken hostage instances,12,edith
+4,5,nature of journalist risks,12,edith
+5,6,cause of journalist risks,12,edith
+6,7,impact of journalist risks,12,edith
+7,8,mitigating journalist risks,12,edith
+8,9,history of journalist risks,12,edith
+9,10,current journalist risks,12,edith
+0,1,ocean remote sensing,13,edith
+1,2,space-borne ocean remote sensing,13,edith
+2,3,ocean remote sensing development,13,edith
+3,4,ocean remote sensing application,13,edith
+4,5,oceanography,13,edith
+5,6,seabed prospecting,13,edith
+6,7,marine-science,13,edith
+7,8,satellite remote sensing,13,edith
+8,9,synthetic aperture radar,13,edith
+9,10,SAR relevance ocean remote sensing,13,edith
+0,1,postmenopausal estrogen,14,edith
+1,2,effects of estrogen,14,edith
+2,3,estrogen use in Britain,14,edith
+3,4,benefits of estrogen,14,edith
+4,5,risks of estrogen,14,edith
+5,6,hormone replacement therapy,14,edith
+6,7,estrogen suppressing drugs development,14,edith
+7,8,estrogen suppressing drugs marketing,14,edith
+8,9,estrogen suppressing drugs side effects,14,edith
+9,10,alternatives to estrogen suppressing drugs,14,edith
+0,1,human smuggling,15,edith
+1,2,incidents of human smuggling,15,edith
+2,3,monetary gain from human smuggling,15,edith
+3,4,willing participants in human smuggling,15,edith
+4,5,consequences of human smuggling,15,edith
+5,6,legal implications of human smuggling,15,edith
+6,7,history of human smuggling,15,edith
+7,8,impact of human smuggling on society,15,edith
+8,9,law enforcement and human smuggling,15,edith
+9,10,common routes for human smuggling,15,edith
+0,1,Antarctica exploration history,11,john
+1,2,Antarctica scientific investigations,11,john
+2,3,Antarctica systematic explorations,11,john
+3,4,Antarctica current research,11,john
+4,5,Antarctica future research,11,john
+5,6,Antarctica economic development potential,11,john
+6,7,Antarctica mineral mining policy,11,john
+7,8,Antarctica tourism impact,11,john
+8,9,Antarctica disrupting scientific experiments consequences,11,john
+9,10,Antarctica specific scientific experiments disrupted,11,john
+0,1,journalist risks,12,john
+1,2,common journalist risks,12,john
+2,3,likelihood of journalist risks,12,john
+3,4,reasons for journalist risks,12,john
+4,5,consequences of journalist risks,12,john
+5,6,protecting journalists,12,john
+6,7,legal framework for journalists,12,john
+7,8,government role in protecting journalists,12,john
+8,9,media role in protecting journalists,12,john
+9,10,impact of journalist risks,12,john
+0,1,ocean remote sensing,13,john
+1,2,space-borne ocean remote sensing,13,john
+2,3,ocean remote sensing development,13,john
+3,4,ocean remote sensing in oceanography,13,john
+4,5,ocean remote sensing in seabed prospecting and mining,13,john
+5,6,ocean remote sensing in marine-science activity,13,john
+6,7,synthetic aperture radar,13,john
+7,8,SAR in ocean remote sensing,13,john
+8,9,space-borne ocean remote sensing development documents,13,john
+9,10,space-borne ocean remote sensing application in oceanography seabed prospecting and mining marine-science activity documents,13,john
+0,1,postmenopausal estrogen,14,john
+1,2,estrogen use in Britain,14,john
+2,3,benefits of estrogen,14,john
+3,4,risks of estrogen,14,john
+4,5,hormone replacement therapy,14,john
+5,6,estrogen suppressing drug development,14,john
+6,7,estrogen suppressing drug marketing,14,john
+7,8,estrogen suppressing drug side effects,14,john
+8,9,alternatives to estrogen,14,john
+9,10,regulations for estrogen use,14,john
+0,1,human smuggling,15,john
+1,2,incidents of human smuggling,15,john
+2,3,monetary gain in human smuggling,15,john
+3,4,consequences of human smuggling,15,john
+4,5,willing participants in human smuggling,15,john
+5,6,legal implications of human smuggling,15,john
+6,7,penalties for human smuggling,15,john
+7,8,impact of human smuggling,15,john
+8,9,methods of human smuggling,15,john
+9,10,history of human smuggling,15,john
+0,1,Antarctica exploration history,11,karen
+1,2,Antarctica scientific investigations,11,karen
+2,3,current Antarctica exploration state,11,karen
+3,4,planned Antarctica explorations,11,karen
+4,5,Antarctica seismology role,11,karen
+5,6,Antarctica ionospheric physics role,11,karen
+6,7,Antarctica economic developments,11,karen
+7,8,Antarctica current research,11,karen
+8,9,Antarctica mineral mining ban,11,karen
+9,10,Antarctica disrupting experiments consequences,11,karen
+0,1,journalist risks,12,karen
+1,2,journalist killed instances,12,karen
+2,3,journalist arrested instances,12,karen
+3,4,journalist taken hostage instances,12,karen
+4,5,journalist risk reasons,12,karen
+5,6,journalist protection methods,12,karen
+6,7,journalist risk consequences,12,karen
+7,8,journalist risk impact society,12,karen
+8,9,journalist work targeting examples,12,karen
+9,10,journalist risk history,12,karen
+0,1,ocean remote sensing,13,karen
+1,2,space-borne ocean remote sensing,13,karen
+2,3,ocean remote sensing development,13,karen
+3,4,ocean remote sensing application,13,karen
+4,5,oceanography remote sensing,13,karen
+5,6,seabed prospecting remote sensing,13,karen
+6,7,mining remote sensing,13,karen
+7,8,marine-science remote sensing,13,karen
+8,9,synthetic aperture radar,13,karen
+9,10,SAR in ocean remote sensing,13,karen
+0,1,estrogen,14,karen
+1,2,hormone replacement therapy,14,karen
+2,3,postmenopausal estrogen,14,karen
+3,4,use of estrogen in Britain,14,karen
+4,5,estrogen suppressing drugs,14,karen
+5,6,development of estrogen suppressing drugs in Britain,14,karen
+6,7,marketing of estrogen suppressing drugs in Britain,14,karen
+7,8,difference between HRT and estrogen suppressing drugs,14,karen
+8,9,benefits of postmenopausal estrogen,14,karen
+9,10,risks of postmenopausal estrogen,14,karen
+0,1,human smuggling,15,karen
+1,2,incidents of human smuggling,15,karen
+2,3,monetary gain from human smuggling,15,karen
+3,4,willing participants in human smuggling,15,karen
+4,5,consequences of human smuggling,15,karen
+5,6,legal implications of human smuggling,15,karen
+6,7,routes of human smuggling,15,karen
+7,8,methods of human smuggling,15,karen
+8,9,organizations combating human smuggling,15,karen
+9,10,preventing human smuggling,15,karen
+0,1,Antarctica,11,markus
+1,2,systematic exploration,11,markus
+2,3,scientific investigations,11,markus
+3,4,seismology,11,markus
+4,5,ionospheric physics,11,markus
+5,6,economic development,11,markus
+6,7,current research Antarctica,11,markus
+7,8,future research Antarctica,11,markus
+8,9,mineral mining ban Antarctica,11,markus
+9,10,tourism impact Antarctica,11,markus
+0,1,what is a journalist,12,markus
+1,2,journalist risks,12,markus
+2,3,journalists killed instances,12,markus
+3,4,journalists arrested instances,12,markus
+4,5,journalists taken hostage instances,12,markus
+5,6,journalist work performance,12,markus
+6,7,dangerous countries for journalists,12,markus
+7,8,reasons for journalist risks,12,markus
+8,9,journalist protection measures,12,markus
+9,10,impact of journalist risks,12,markus
+0,1,ocean remote sensing,13,markus
+1,2,space-borne ocean remote sensing,13,markus
+2,3,ocean remote sensing development,13,markus
+3,4,ocean remote sensing application,13,markus
+4,5,oceanography,13,markus
+5,6,seabed prospecting,13,markus
+6,7,marine-science,13,markus
+7,8,synthetic aperture radar,13,markus
+8,9,SAR relevance ocean remote sensing,13,markus
+9,10,ocean remote sensing benefits,13,markus
+0,1,postmenopausal estrogen,14,markus
+1,2,estrogen use in Britain,14,markus
+2,3,benefits of estrogen Britain,14,markus
+3,4,risks of estrogen Britain,14,markus
+4,5,hormone replacement therapy,14,markus
+5,6,UK estrogen suppressing drugs,14,markus
+6,7,marketing estrogen suppressing drugs Britain,14,markus
+7,8,estrogen suppressing drugs side effects,14,markus
+8,9,effectiveness estrogen suppressing drugs,14,markus
+9,10,alternatives estrogen suppressing drugs,14,markus
+0,1,human smuggling,15,markus
+1,2,incidents of human smuggling,15,markus
+2,3,monetary gain from human smuggling,15,markus
+3,4,willing participants in human smuggling,15,markus
+4,5,consequences of human smuggling,15,markus
+5,6,legal implications of human smuggling,15,markus
+6,7,methods of human smuggling,15,markus
+7,8,countries involved in human smuggling,15,markus
+8,9,impact of human smuggling on society,15,markus
+9,10,measures to prevent human smuggling,15,markus

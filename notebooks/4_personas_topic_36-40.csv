@@ -1,0 +1,201 @@
+,index,queries,topic,persona
+0,1,UV damage eyes,36,edith
+1,2,UV exposure eye diseases,36,edith
+2,3,treatments for UV damage,36,edith
+3,4,education programs UV damage prevention,36,edith
+4,5,what are cataracts,36,edith
+5,6,cataracts UV damage relation,36,edith
+6,7,what is ocular melanoma,36,edith
+7,8,ocular melanoma UV damage relation,36,edith
+8,9,UV damage prevention methods,36,edith
+9,10,long-term consequences UV damage eyes,36,edith
+0,1,what is stoicism,37,edith
+1,2,Greek stoic philosophers,37,edith
+2,3,contemporary stoicism references,37,edith
+3,4,Greek stoic play productions,37,edith
+4,5,new stoic artistic productions,37,edith
+5,6,Greek stoicism history,37,edith
+6,7,stoicism modern philosophy influence,37,edith
+7,8,stoicism criticisms,37,edith
+8,9,stoicism relationship Greek philosophies,37,edith
+9,10,stoicism impact Greek culture,37,edith
+0,1,population control measures,38,edith
+1,2,countries with successful population control,38,edith
+2,3,results of population reduction measures,38,edith
+3,4,successful population control programs,38,edith
+4,5,effective population control methods,38,edith
+5,6,successful population control policies,38,edith
+6,7,effective population control strategies,38,edith
+7,8,successful population control initiatives,38,edith
+8,9,effective population control interventions,38,edith
+9,10,successful population control measures,38,edith
+0,1,railway accidents,39,edith
+1,2,causes of railway accidents,39,edith
+2,3,worldwide railway accidents causes,39,edith
+3,4,types of railway accidents,39,edith
+4,5,impact of railway accidents,39,edith
+5,6,common causes of railway accidents,39,edith
+6,7,railroad system in railway accidents,39,edith
+7,8,vehicles in railway accidents,39,edith
+8,9,pedestrians in railway accidents,39,edith
+9,10,safety measures railway accidents prevention,39,edith
+0,1,recent inventions,40,edith
+1,2,new scientific discoveries,40,edith
+2,3,most recent invention,40,edith
+3,4,latest scientific discovery,40,edith
+4,5,non-patentable scientific discoveries,40,edith
+5,6,recent patentable inventions,40,edith
+6,7,recent medical discoveries,40,edith
+7,8,recent technology discoveries,40,edith
+8,9,recent biology discoveries,40,edith
+9,10,recent chemistry discoveries,40,edith
+0,1,UV damage eyes diseases,36,john
+1,2,UV damage eyes treatments,36,john
+2,3,UV damage eyes prevention education,36,john
+3,4,UV damage eyes cataracts relationship,36,john
+4,5,UV damage eyes ocular melanoma relationship,36,john
+5,6,UV damage eyes symptoms,36,john
+6,7,UV damage eyes prevention,36,john
+7,8,UV damage eyes long-term effects,36,john
+8,9,UV damage eyes prevalence,36,john
+9,10,UV damage eyes treatment cost,36,john
+0,1,what is stoicism,37,john
+1,2,Greek stoic philosophers,37,john
+2,3,contemporary stoicism references,37,john
+3,4,new stoic plays,37,john
+4,5,stoic artistic productions,37,john
+5,6,history of Greek stoicism,37,john
+6,7,key principles of stoicism,37,john
+7,8,stoicism and modern philosophy,37,john
+8,9,stoicism and ethics,37,john
+9,10,reason in stoicism,37,john
+0,1,population growth,38,john
+1,2,measures to curb population growth,38,john
+2,3,countries curbing population growth,38,john
+3,4,results of population reduction measures,38,john
+4,5,effective measures for population reduction,38,john
+5,6,successful countries in population reduction,38,john
+6,7,successful measures in population reduction,38,john
+7,8,consequences of population growth,38,john
+8,9,benefits of population reduction,38,john
+9,10,challenges of population reduction,38,john
+0,1,railway accidents,39,john
+1,2,causes of railway accidents,39,john
+2,3,worldwide railway accidents causes,39,john
+3,4,impact of railway accidents,39,john
+4,5,types of railway accidents,39,john
+5,6,railroad system role in railway accidents,39,john
+6,7,vehicles role in railway accidents,39,john
+7,8,pedestrians role in railway accidents,39,john
+8,9,frequency of railway accidents,39,john
+9,10,consequences of railway accidents,39,john
+0,1,new inventions,40,john
+1,2,recent scientific discoveries,40,john
+2,3,non-patentable scientific discoveries,40,john
+3,4,patentable scientific discoveries,40,john
+4,5,recent technological advancements,40,john
+5,6,recent medical advancements,40,john
+6,7,recent environmental discoveries,40,john
+7,8,recent energy discoveries,40,john
+8,9,recent AI discoveries,40,john
+9,10,recent robotics discoveries,40,john
+0,1,UV damage eyes diseases,36,karen
+1,2,UV damage eyes treatments,36,karen
+2,3,UV damage eyes prevention programs,36,karen
+3,4,cataracts UV damage eyes,36,karen
+4,5,ocular melanoma UV damage eyes,36,karen
+5,6,UV damage eyes symptoms,36,karen
+6,7,preventing UV damage eyes,36,karen
+7,8,long-term effects UV damage eyes,36,karen
+8,9,risk factors UV damage eyes,36,karen
+9,10,types UV radiation eyes effects,36,karen
+0,1,what is stoicism,37,karen
+1,2,Greek stoic philosophers,37,karen
+2,3,contemporary stoic productions,37,karen
+3,4,Greek stoic plays,37,karen
+4,5,history of stoicism,37,karen
+5,6,relevance of stoicism today,37,karen
+6,7,modern interpretations of stoicism,37,karen
+7,8,famous stoic quotes,37,karen
+8,9,impact of stoicism on modern philosophy,37,karen
+9,10,criticisms of stoicism,37,karen
+0,1,population reduction measures,38,karen
+1,2,countries curbing population growth,38,karen
+2,3,population reduction results,38,karen
+3,4,successful population reduction programs,38,karen
+4,5,unsuccessful population reduction programs,38,karen
+5,6,population control policies,38,karen
+6,7,population control methods,38,karen
+7,8,population control strategies,38,karen
+8,9,population control techniques,38,karen
+9,10,population control initiatives,38,karen
+0,1,railway accidents,39,karen
+1,2,causes of railway accidents,39,karen
+2,3,types of railway accidents,39,karen
+3,4,frequency of railway accidents,39,karen
+4,5,dangerous railway accidents,39,karen
+5,6,common causes of railway accidents,39,karen
+6,7,vehicles in railway accidents,39,karen
+7,8,pedestrian railway accidents,39,karen
+8,9,global impact of railway accidents,39,karen
+9,10,recent railway accidents,39,karen
+0,1,recent inventions,40,karen
+1,2,new scientific discoveries,40,karen
+2,3,patentable inventions,40,karen
+3,4,non-patentable scientific discoveries,40,karen
+4,5,notable recent inventions,40,karen
+5,6,groundbreaking scientific discoveries,40,karen
+6,7,popular new inventions,40,karen
+7,8,controversial scientific discoveries,40,karen
+8,9,new inventions Texas,40,karen
+9,10,recent medical discoveries,40,karen
+0,1,UV damage eyes,36,markus
+1,2,UV light eye damage,36,markus
+2,3,diseases from UV exposure,36,markus
+3,4,treatments for UV eye damage,36,markus
+4,5,preventing UV eye damage,36,markus
+5,6,what is cataracts,36,markus
+6,7,cataracts treatment,36,markus
+7,8,what is ocular melanoma,36,markus
+8,9,ocular melanoma treatment,36,markus
+9,10,preventing UV eye damage methods,36,markus
+0,1,Greek philosophy,37,markus
+1,2,stoicism,37,markus
+2,3,Greek stoic philosophers,37,markus
+3,4,references to stoicism,37,markus
+4,5,Greek stoic play productions,37,markus
+5,6,new stoic artistic productions,37,markus
+6,7,contemporary interest stoicism,37,markus
+7,8,history Greek stoicism,37,markus
+8,9,principles Greek stoicism,37,markus
+9,10,impact Greek stoicism modern society,37,markus
+0,1,population growth,38,markus
+1,2,population reduction measures,38,markus
+2,3,countries curbing population growth,38,markus
+3,4,effective population reduction measures,38,markus
+4,5,results of population reduction,38,markus
+5,6,impact of population growth environment,38,markus
+6,7,long-term consequences population growth,38,markus
+7,8,social implications population growth,38,markus
+8,9,economic implications population growth,38,markus
+9,10,political implications population growth,38,markus
+0,1,railway accidents,39,markus
+1,2,causes of railway accidents,39,markus
+2,3,common causes railway accidents,39,markus
+3,4,types of railway accidents,39,markus
+4,5,frequency railway accidents,39,markus
+5,6,history railway accidents,39,markus
+6,7,dangerous railway accidents,39,markus
+7,8,common railway accidents,39,markus
+8,9,causes railway accidents world,39,markus
+9,10,recent railway accidents,39,markus
+0,1,new inventions,40,markus
+1,2,recent scientific discoveries,40,markus
+2,3,patentable inventions,40,markus
+3,4,non-patentable scientific discoveries,40,markus
+4,5,inventing process,40,markus
+5,6,scientific discovery process,40,markus
+6,7,famous inventors,40,markus
+7,8,famous scientists,40,markus
+8,9,world-changing inventions,40,markus
+9,10,world-changing scientific discoveries,40,markus

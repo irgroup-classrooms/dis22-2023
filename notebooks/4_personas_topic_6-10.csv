@@ -1,0 +1,201 @@
+,index,queries,topic,persona
+0,1,airport security,6,edith
+1,2,airport security steps,6,edith
+2,3,new airport security steps,6,edith
+3,4,airport security effectiveness,6,edith
+4,5,carry-on baggage screening,6,edith
+5,6,baggage compartment screening,6,edith
+6,7,passenger screening measures,6,edith
+7,8,international flight screening measures,6,edith
+8,9,domestic flight screening measures,6,edith
+9,10,terrorism screening measures,6,edith
+0,1,E-Mail abuse,7,edith
+1,2,types of E-Mail abuse,7,edith
+2,3,cost of E-Mail,7,edith
+3,4,E-Mail payer,7,edith
+4,5,desired uses of E-Mail,7,edith
+5,6,excesses of E-Mail,7,edith
+6,7,preventing E-Mail abuse,7,edith
+7,8,world-wide E-Mail abuse prevention,7,edith
+8,9,consequences of E-Mail abuse,7,edith
+9,10,preventing E-Mail abuse methods,7,edith
+0,1,overseas tobacco sales,8,edith
+1,2,impact of health on U.S. tobacco sales,8,edith
+2,3,impact of economy on U.S. tobacco sales,8,edith
+3,4,impact of health on overseas tobacco sales,8,edith
+4,5,impact of economy on overseas tobacco sales,8,edith
+5,6,reasons for increase in overseas tobacco sales,8,edith
+6,7,reasons for decrease in overseas tobacco sales,8,edith
+7,8,role of U.S. companies in overseas tobacco sales,8,edith
+8,9,role of foreign companies in overseas tobacco sales,8,edith
+9,10,impact of aggressive marketing on overseas tobacco sales,8,edith
+0,1,wildlife extinction,9,edith
+1,2,countries preventing wildlife extinction,9,edith
+2,3,endangered species,9,edith
+3,4,steps to save species,9,edith
+4,5,impact of wildlife extinction,9,edith
+5,6,human role in wildlife extinction,9,edith
+6,7,consequences of wildlife extinction,9,edith
+7,8,history of wildlife extinction,9,edith
+8,9,current trends in wildlife extinction,9,edith
+9,10,future prospects for wildlife extinction,9,edith
+0,1,physical disorders computer terminals,10,edith
+1,2,common physical disorders computer terminals,10,edith
+2,3,hazards computer terminals,10,edith
+3,4,alleviate health problems computer terminals,10,edith
+4,5,long-term effects computer terminals health,10,edith
+5,6,common health problems computer terminals,10,edith
+6,7,prevent health problems computer terminals,10,edith
+7,8,research health effects computer terminals,10,edith
+8,9,symptoms physical disorders computer terminals,10,edith
+9,10,risk factors physical disorders computer terminals,10,edith
+0,1,airport security,6,john
+1,2,airport security steps,6,john
+2,3,domestic vs international flight security,6,john
+3,4,carry-on baggage screening,6,john
+4,5,terrorism and airport security,6,john
+5,6,additional steps for flight safety,6,john
+6,7,enhanced security definition,6,john
+7,8,airport security personnel,6,john
+8,9,automated screening processes,6,john
+9,10,effectiveness of airport security,6,john
+0,1,E-Mail abuse examples,7,john
+1,2,E-Mail cost,7,john
+2,3,E-Mail payer,7,john
+3,4,E-Mail desired use,7,john
+4,5,E-Mail abuse prevention,7,john
+5,6,system user E-Mail abuse,7,john
+6,7,E-Mail abuse consequences,7,john
+7,8,E-Mail abuse legal implications,7,john
+8,9,E-Mail abuse ethical implications,7,john
+9,10,consequences of not preventing E-Mail abuse,7,john
+0,1,overseas tobacco sales,8,john
+1,2,decreased US tobacco sales,8,john
+2,3,increased overseas tobacco sales,8,john
+3,4,health impact on overseas tobacco sales,8,john
+4,5,economic impact on overseas tobacco sales,8,john
+5,6,aggressive marketing overseas,8,john
+6,7,foreign companies cooperating with US tobacco companies,8,john
+7,8,economic impact of overseas tobacco sales,8,john
+8,9,customer base for overseas tobacco sales,8,john
+9,10,health consequences of overseas tobacco sales,8,john
+0,1,wildlife extinction,9,john
+1,2,countries involved in wildlife extinction,9,john
+2,3,species affected by extinction,9,john
+3,4,steps taken to save species,9,john
+4,5,efforts to prevent wildlife extinction,9,john
+5,6,most endangered species,9,john
+6,7,causes of wildlife extinction,9,john
+7,8,effects of wildlife extinction,9,john
+8,9,legal implications of wildlife extinction,9,john
+9,10,economic impacts of wildlife extinction,9,john
+0,1,physical disorders computer terminals,10,john
+1,2,widespread physical disorders computer terminals,10,john
+2,3,Carpal Tunnel Syndrome,10,john
+3,4,computer terminals Cataracts link,10,john
+4,5,computer terminals Fatigue link,10,john
+5,6,alleviate health problems computer terminals,10,john
+6,7,computer terminals hazardous health,10,john
+7,8,common physical disorders computer terminals,10,john
+8,9,alleviate physical disorders computer terminals,10,john
+9,10,research health effects computer terminals,10,john
+0,1,airport security,6,karen
+1,2,airport passenger luggage screening,6,karen
+2,3,new airport security measures,6,karen
+3,4,airport carry-on baggage screening,6,karen
+4,5,airport monitoring screening devices,6,karen
+5,6,airport extraordinary luggage screening measures,6,karen
+6,7,effectiveness of airport passenger luggage screening,6,karen
+7,8,effectiveness of international airport passenger luggage screening,6,karen
+8,9,airport security concerns terrorism,6,karen
+9,10,impact of airport security on passengers,6,karen
+0,1,E-Mail abuse examples,7,karen
+1,2,E-Mail abuse consequences,7,karen
+2,3,Preventing E-Mail abuse,7,karen
+3,4,Desired uses of E-Mail,7,karen
+4,5,Costs of E-Mail,7,karen
+5,6,Benefits of E-Mail,7,karen
+6,7,E-Mail usage policies,7,karen
+7,8,Best practices for E-Mail,7,karen
+8,9,E-Mail abuse case studies,7,karen
+9,10,Legal consequences E-Mail abuse,7,karen
+0,1,overseas tobacco sales,8,karen
+1,2,overseas tobacco sales increase decrease,8,karen
+2,3,reason for overseas tobacco sales increase decrease,8,karen
+3,4,health findings impact on overseas tobacco sales,8,karen
+4,5,aggressive marketing impact on overseas tobacco sales,8,karen
+5,6,U.S. tobacco companies selling overseas,8,karen
+6,7,foreign companies cooperating with U.S. tobacco companies,8,karen
+7,8,economic impact of overseas tobacco sales,8,karen
+8,9,health factors impact on overseas tobacco sales,8,karen
+9,10,economic factors impact on overseas tobacco sales,8,karen
+0,1,wildlife extinction,9,karen
+1,2,countries preventing wildlife extinction,9,karen
+2,3,endangered species,9,karen
+3,4,steps to save species,9,karen
+4,5,current wildlife extinction status,9,karen
+5,6,causes of wildlife extinction,9,karen
+6,7,consequences of wildlife extinction,9,karen
+7,8,successful wildlife extinction prevention,9,karen
+8,9,unsuccessful wildlife extinction prevention,9,karen
+9,10,human role in wildlife extinction,9,karen
+0,1,physical disorders computer terminals,10,karen
+1,2,widespread physical disorders computer terminals,10,karen
+2,3,alleviate physical disorders computer terminals,10,karen
+3,4,computer terminals carpel tunnel,10,karen
+4,5,computer terminals cataracts,10,karen
+5,6,computer terminals fatigue,10,karen
+6,7,hazards computer terminals,10,karen
+7,8,long-term effects computer terminals,10,karen
+8,9,best practices computer terminals physical disorders,10,karen
+9,10,ergonomic solutions physical disorders computer terminals,10,karen
+0,1,airport security,6,markus
+1,2,airport security steps,6,markus
+2,3,domestic vs international flight security,6,markus
+3,4,new steps for flight safety,6,markus
+4,5,effectiveness of airport security,6,markus
+5,6,terrorism and airport security,6,markus
+6,7,carry-on baggage screening,6,markus
+7,8,extraordinary measures for baggage compartment screening,6,markus
+8,9,monitoring and screening devices in airport security,6,markus
+9,10,whole body imaging impact on airport security,6,markus
+0,1,what is email,7,markus
+1,2,email abuse examples,7,markus
+2,3,who pays for email,7,markus
+3,4,desired email uses,7,markus
+4,5,prevent email abuse,7,markus
+5,6,world-wide email abuse prevention,7,markus
+6,7,email abuse consequences,7,markus
+7,8,detect email abuse,7,markus
+8,9,report email abuse,7,markus
+9,10,best practices email usage,7,markus
+0,1,overseas tobacco sales,8,markus
+1,2,health impact on U.S. tobacco sales,8,markus
+2,3,economic impact of U.S. tobacco sales,8,markus
+3,4,impact of health and economic factors on overseas tobacco sales,8,markus
+4,5,aggressive marketing on overseas tobacco sales,8,markus
+5,6,foreign companies cooperating with U.S. tobacco companies,8,markus
+6,7,health impact of overseas tobacco sales,8,markus
+7,8,economic impact of overseas tobacco sales,8,markus
+8,9,reasons for increase or decrease in overseas tobacco sales,8,markus
+9,10,consequences of overseas tobacco sales,8,markus
+0,1,wildlife extinction,9,markus
+1,2,countries preventing wildlife extinction,9,markus
+2,3,endangered species,9,markus
+3,4,steps to save species,9,markus
+4,5,causes of wildlife extinction,9,markus
+5,6,impact of wildlife extinction,9,markus
+6,7,consequences of not preventing wildlife extinction,9,markus
+7,8,successful cases of preventing wildlife extinction,9,markus
+8,9,challenges of preventing wildlife extinction,9,markus
+9,10,role of humans in wildlife extinction,9,markus
+0,1,computer terminal health risks,10,markus
+1,2,physical disorders computer terminals,10,markus
+2,3,computer terminal health problems widespread,10,markus
+3,4,alleviate computer terminal health problems,10,markus
+4,5,what is carpel tunnel,10,markus
+5,6,what is cataracts,10,markus
+6,7,what is fatigue,10,markus
+7,8,prevent carpel tunnel,10,markus
+8,9,prevent cataracts,10,markus
+9,10,prevent fatigue,10,markus

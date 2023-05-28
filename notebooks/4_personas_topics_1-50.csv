@@ -1,0 +1,1927 @@
+,Unnamed: 0,index,queries,topic,persona
+0,0,1,radio waves,1,edith
+1,1,2,brain cancer,1,edith
+2,2,3,incidence brain cancer general population,1,edith
+3,3,4,incidence brain cancer radio towers,1,edith
+4,4,5,incidence brain cancer mobile phones,1,edith
+5,5,6,direct association radio waves brain cancer,1,edith
+6,6,7,experiments radio waves brain cancer,1,edith
+7,7,8,statistical studies radio waves brain cancer,1,edith
+8,8,9,articles brain cancer radio towers mobile phones,1,edith
+9,9,10,news items brain cancer radio towers mobile phones,1,edith
+10,0,1,women parliament representation,2,edith
+11,1,2,countries mandate women legislatures,2,edith
+12,2,3,female representation trend legislatures,2,edith
+13,3,4,no women representation legislatures,2,edith
+14,4,5,women representation Third World,2,edith
+15,5,6,political power gap sexes,2,edith
+16,6,7,history women parliaments,2,edith
+17,7,8,challenges women parliaments,2,edith
+18,8,9,benefits women parliaments,2,edith
+19,9,10,increase women representation parliaments,2,edith
+20,0,1,cult,3,edith
+21,1,2,cults,3,edith
+22,2,3,cult names,3,edith
+23,3,4,cult member lifestyles,3,edith
+24,4,5,cult member dress,3,edith
+25,5,6,cult member ultimate goal,3,edith
+26,6,7,cult member diet,3,edith
+27,7,8,cult member contribution,3,edith
+28,8,9,cult ultimate goal,3,edith
+29,9,10,cult history,3,edith
+30,0,1,Iran-Iraq relations history,4,edith
+31,1,2,Iran-Iraq economic cooperation,4,edith
+32,2,3,Iran-Iraq military cooperation,4,edith
+33,3,4,Iran-Iraq religious cooperation,4,edith
+34,4,5,Iran-Iraq social relations,4,edith
+35,5,6,Iran-Iraq border control collaboration,4,edith
+36,6,7,Iran-Iraq minorities treatment collaboration,4,edith
+37,7,8,Iran-Iraq trade sanctions workaround,4,edith
+38,8,9,Iran-Iraq cooperation benefits,4,edith
+39,9,10,Iran-Iraq cooperation challenges,4,edith
+40,0,1,black bear attack causes,5,edith
+41,1,2,black bear attack attractants,5,edith
+42,2,3,black bear attack frequency worldwide,5,edith
+43,3,4,savage behavior in black bears,5,edith
+44,4,5,wildlife officials control black bears,5,edith
+45,5,6,new methods modify black bears,5,edith
+46,6,7,scientific community speculate black bear attacks,5,edith
+47,7,8,food cosmetics black bear behavior,5,edith
+48,8,9,consequences black bear attacks,5,edith
+49,9,10,preventive measures black bear attacks,5,edith
+50,0,1,radio waves brain cancer,1,john
+51,1,2,radio towers brain cancer,1,john
+52,2,3,mobile phones brain cancer,1,john
+53,3,4,direct association radio waves brain cancer,1,john
+54,4,5,incidence brain cancer radio towers,1,john
+55,5,6,incidence brain cancer mobile phones,1,john
+56,6,7,incidence brain cancer radio towers mobile phones normal population,1,john
+57,7,8,animal experiments radio waves brain cancer,1,john
+58,8,9,statistical studies radio waves brain cancer,1,john
+59,9,10,articles news items brain cancer radio towers mobile phones normal population,1,john
+60,0,1,women parliament representation,2,john
+61,1,2,countries mandate women legislatures,2,john
+62,2,3,percentage women legislatures countries,2,john
+63,3,4,decreases female representation legislatures,2,john
+64,4,5,reasons lack women parliament representation,2,john
+65,5,6,political power gap sexes parliaments,2,john
+66,6,7,women parliament representation Third World,2,john
+67,7,8,consequences lack women parliament representation,2,john
+68,8,9,initiatives increase women parliament representation,2,john
+69,9,10,close political power gap sexes parliaments,2,john
+70,0,1,cult,3,john
+71,1,2,cults,3,john
+72,2,3,cult names,3,john
+73,3,4,cult member lifestyles,3,john
+74,4,5,cult member dress,3,john
+75,5,6,cult member ultimate goal,3,john
+76,6,7,cult member diet,3,john
+77,7,8,cult member contribution,3,john
+78,8,9,cult existence,3,john
+79,9,10,cult name member activities everyday life,3,john
+80,0,1,Iran-Iraq relations history,4,john
+81,1,2,Iran-Iraq economic cooperation,4,john
+82,2,3,Iran-Iraq military cooperation,4,john
+83,3,4,Iran-Iraq religious cooperation,4,john
+84,4,5,Iran-Iraq social relations,4,john
+85,5,6,Iran-Iraq border control,4,john
+86,6,7,Iran-Iraq minorities treatment,4,john
+87,7,8,Iran-Iraq trade sanctions,4,john
+88,8,9,Iran-Iraq cooperation benefits,4,john
+89,9,10,Iran-Iraq cooperation drawbacks,4,john
+90,0,1,black bear attack frequency,5,john
+91,1,2,causes of black bear attacks,5,john
+92,2,3,black bear attack attraction,5,john
+93,3,4,scientific community speculation black bear attacks,5,john
+94,4,5,wildlife officials control black bear attacks,5,john
+95,5,6,new methods modify black bear savageness,5,john
+96,6,7,common causes black bear attacks,5,john
+97,7,8,prevent black bear attacks,5,john
+98,8,9,consequences black bear attack,5,john
+99,9,10,legal implications black bear attack,5,john
+100,0,1,radio waves,1,karen
+101,1,2,brain cancer,1,karen
+102,2,3,radio waves association brain cancer,1,karen
+103,3,4,brain cancer incidence radio towers,1,karen
+104,4,5,brain cancer incidence mobile phones,1,karen
+105,5,6,brain cancer incidence radio towers mobile phones,1,karen
+106,6,7,radio waves effects brain cancer experiments,1,karen
+107,7,8,radio waves association brain cancer statistical studies,1,karen
+108,8,9,radio waves association brain cancer articles,1,karen
+109,9,10,brain cancer incidence radio towers mobile phones news items,1,karen
+110,0,1,women parliament representation,2,karen
+111,1,2,countries mandate women legislatures,2,karen
+112,2,3,female representation trend legislatures,2,karen
+113,3,4,countries no women representation,2,karen
+114,4,5,political power gap sexes parliaments,2,karen
+115,5,6,women representation Third World,2,karen
+116,6,7,reasons lack women representation parliaments,2,karen
+117,7,8,consequences lack women representation parliaments,2,karen
+118,8,9,benefits women representation parliaments,2,karen
+119,9,10,initiatives increase women representation parliaments,2,karen
+120,0,1,cult definition,3,karen
+121,1,2,cults,3,karen
+122,2,3,cult names,3,karen
+123,3,4,cult member lifestyles,3,karen
+124,4,5,cult member dress,3,karen
+125,5,6,cult ultimate goal,3,karen
+126,6,7,cult member diet,3,karen
+127,7,8,cult member contribution,3,karen
+128,8,9,cult member activities,3,karen
+129,9,10,cult member daily routine,3,karen
+130,0,1,Iran-Iraq relations history,4,karen
+131,1,2,Iran-Iraq economic cooperation,4,karen
+132,2,3,Iran-Iraq military cooperation,4,karen
+133,3,4,Iran-Iraq religious cooperation,4,karen
+134,4,5,Iran-Iraq social cooperation,4,karen
+135,5,6,Iran-Iraq border control collaboration,4,karen
+136,6,7,Iran-Iraq minorities treatment,4,karen
+137,7,8,Iran-Iraq trade sanctions evasion,4,karen
+138,8,9,Iran-Iraq cooperation benefits,4,karen
+139,9,10,Iran-Iraq cooperation challenges,4,karen
+140,0,1,black bear attacks causes,5,karen
+141,1,2,black bear attacks attraction,5,karen
+142,2,3,black bear attacks frequency worldwide,5,karen
+143,3,4,black bear savage behavior causes,5,karen
+144,4,5,wildlife officials control black bears,5,karen
+145,5,6,new methods modify black bears,5,karen
+146,6,7,scientific community speculation black bear attacks,5,karen
+147,7,8,food cosmetics black bear behavior,5,karen
+148,8,9,consequences black bear attacks humans,5,karen
+149,9,10,precautions prevent black bear attacks,5,karen
+150,0,1,radio waves,1,markus
+151,1,2,brain cancer,1,markus
+152,2,3,radio waves brain cancer association,1,markus
+153,3,4,brain cancer incidence radio towers,1,markus
+154,4,5,brain cancer incidence mobile phones,1,markus
+155,5,6,brain cancer incidence radio towers mobile phones,1,markus
+156,6,7,radio waves brain cancer experiments,1,markus
+157,7,8,brain cancer incidence statistical studies radio towers mobile phones,1,markus
+158,8,9,radio waves brain cancer articles,1,markus
+159,9,10,brain cancer incidence news items radio towers mobile phones,1,markus
+160,0,1,women parliament representation,2,markus
+161,1,2,women poor parliament representation,2,markus
+162,2,3,countries mandate women legislature,2,markus
+163,3,4,percentage women legislature countries,2,markus
+164,4,5,decreases female representation legislature,2,markus
+165,5,6,political power gap Third World,2,markus
+166,6,7,consequences lack women parliament representation,2,markus
+167,7,8,challenges women politics,2,markus
+168,8,9,benefits women parliament representation,2,markus
+169,9,10,increase women parliament representation,2,markus
+170,0,1,cult definition,3,markus
+171,1,2,cults,3,markus
+172,2,3,cult names,3,markus
+173,3,4,cult member lifestyles,3,markus
+174,4,5,cult member dress,3,markus
+175,5,6,cult member goal attainment,3,markus
+176,6,7,cult member diet,3,markus
+177,7,8,cult member contribution,3,markus
+178,8,9,cult member activities,3,markus
+179,9,10,cult name member lifestyles,3,markus
+180,0,1,Iran-Iraq relations history,4,markus
+181,1,2,Iran-Iraq economic cooperation,4,markus
+182,2,3,Iran-Iraq military cooperation,4,markus
+183,3,4,Iran-Iraq religious cooperation,4,markus
+184,4,5,Iran-Iraq social relations,4,markus
+185,5,6,Iran-Iraq border control,4,markus
+186,6,7,Iran-Iraq minorities treatment,4,markus
+187,7,8,Iran-Iraq trade sanctions,4,markus
+188,8,9,Iran-Iraq cooperation benefits,4,markus
+189,9,10,Iran-Iraq cooperation challenges,4,markus
+190,0,1,black bear attacks,5,markus
+191,1,2,causes of black bear attacks,5,markus
+192,2,3,black bear attacks on humans,5,markus
+193,3,4,scientific community opinion black bear attacks,5,markus
+194,4,5,possible causes black bear attacks,5,markus
+195,5,6,wildlife officials control black bear attacks,5,markus
+196,6,7,new methods modify black bear savageness,5,markus
+197,7,8,frequency black bear attacks worldwide,5,markus
+198,8,9,consequences black bear attacks,5,markus
+199,9,10,prevent black bear attacks,5,markus
+0,0,1,airport security,6,edith
+1,1,2,airport security steps,6,edith
+2,2,3,new airport security steps,6,edith
+3,3,4,airport security effectiveness,6,edith
+4,4,5,carry-on baggage screening,6,edith
+5,5,6,baggage compartment screening,6,edith
+6,6,7,passenger screening measures,6,edith
+7,7,8,international flight screening measures,6,edith
+8,8,9,domestic flight screening measures,6,edith
+9,9,10,terrorism screening measures,6,edith
+10,0,1,E-Mail abuse,7,edith
+11,1,2,types of E-Mail abuse,7,edith
+12,2,3,cost of E-Mail,7,edith
+13,3,4,E-Mail payer,7,edith
+14,4,5,desired uses of E-Mail,7,edith
+15,5,6,excesses of E-Mail,7,edith
+16,6,7,preventing E-Mail abuse,7,edith
+17,7,8,world-wide E-Mail abuse prevention,7,edith
+18,8,9,consequences of E-Mail abuse,7,edith
+19,9,10,preventing E-Mail abuse methods,7,edith
+20,0,1,overseas tobacco sales,8,edith
+21,1,2,impact of health on U.S. tobacco sales,8,edith
+22,2,3,impact of economy on U.S. tobacco sales,8,edith
+23,3,4,impact of health on overseas tobacco sales,8,edith
+24,4,5,impact of economy on overseas tobacco sales,8,edith
+25,5,6,reasons for increase in overseas tobacco sales,8,edith
+26,6,7,reasons for decrease in overseas tobacco sales,8,edith
+27,7,8,role of U.S. companies in overseas tobacco sales,8,edith
+28,8,9,role of foreign companies in overseas tobacco sales,8,edith
+29,9,10,impact of aggressive marketing on overseas tobacco sales,8,edith
+30,0,1,wildlife extinction,9,edith
+31,1,2,countries preventing wildlife extinction,9,edith
+32,2,3,endangered species,9,edith
+33,3,4,steps to save species,9,edith
+34,4,5,impact of wildlife extinction,9,edith
+35,5,6,human role in wildlife extinction,9,edith
+36,6,7,consequences of wildlife extinction,9,edith
+37,7,8,history of wildlife extinction,9,edith
+38,8,9,current trends in wildlife extinction,9,edith
+39,9,10,future prospects for wildlife extinction,9,edith
+40,0,1,physical disorders computer terminals,10,edith
+41,1,2,common physical disorders computer terminals,10,edith
+42,2,3,hazards computer terminals,10,edith
+43,3,4,alleviate health problems computer terminals,10,edith
+44,4,5,long-term effects computer terminals health,10,edith
+45,5,6,common health problems computer terminals,10,edith
+46,6,7,prevent health problems computer terminals,10,edith
+47,7,8,research health effects computer terminals,10,edith
+48,8,9,symptoms physical disorders computer terminals,10,edith
+49,9,10,risk factors physical disorders computer terminals,10,edith
+50,0,1,airport security,6,john
+51,1,2,airport security steps,6,john
+52,2,3,domestic vs international flight security,6,john
+53,3,4,carry-on baggage screening,6,john
+54,4,5,terrorism and airport security,6,john
+55,5,6,additional steps for flight safety,6,john
+56,6,7,enhanced security definition,6,john
+57,7,8,airport security personnel,6,john
+58,8,9,automated screening processes,6,john
+59,9,10,effectiveness of airport security,6,john
+60,0,1,E-Mail abuse examples,7,john
+61,1,2,E-Mail cost,7,john
+62,2,3,E-Mail payer,7,john
+63,3,4,E-Mail desired use,7,john
+64,4,5,E-Mail abuse prevention,7,john
+65,5,6,system user E-Mail abuse,7,john
+66,6,7,E-Mail abuse consequences,7,john
+67,7,8,E-Mail abuse legal implications,7,john
+68,8,9,E-Mail abuse ethical implications,7,john
+69,9,10,consequences of not preventing E-Mail abuse,7,john
+70,0,1,overseas tobacco sales,8,john
+71,1,2,decreased US tobacco sales,8,john
+72,2,3,increased overseas tobacco sales,8,john
+73,3,4,health impact on overseas tobacco sales,8,john
+74,4,5,economic impact on overseas tobacco sales,8,john
+75,5,6,aggressive marketing overseas,8,john
+76,6,7,foreign companies cooperating with US tobacco companies,8,john
+77,7,8,economic impact of overseas tobacco sales,8,john
+78,8,9,customer base for overseas tobacco sales,8,john
+79,9,10,health consequences of overseas tobacco sales,8,john
+80,0,1,wildlife extinction,9,john
+81,1,2,countries involved in wildlife extinction,9,john
+82,2,3,species affected by extinction,9,john
+83,3,4,steps taken to save species,9,john
+84,4,5,efforts to prevent wildlife extinction,9,john
+85,5,6,most endangered species,9,john
+86,6,7,causes of wildlife extinction,9,john
+87,7,8,effects of wildlife extinction,9,john
+88,8,9,legal implications of wildlife extinction,9,john
+89,9,10,economic impacts of wildlife extinction,9,john
+90,0,1,physical disorders computer terminals,10,john
+91,1,2,widespread physical disorders computer terminals,10,john
+92,2,3,Carpal Tunnel Syndrome,10,john
+93,3,4,computer terminals Cataracts link,10,john
+94,4,5,computer terminals Fatigue link,10,john
+95,5,6,alleviate health problems computer terminals,10,john
+96,6,7,computer terminals hazardous health,10,john
+97,7,8,common physical disorders computer terminals,10,john
+98,8,9,alleviate physical disorders computer terminals,10,john
+99,9,10,research health effects computer terminals,10,john
+100,0,1,airport security,6,karen
+101,1,2,airport passenger luggage screening,6,karen
+102,2,3,new airport security measures,6,karen
+103,3,4,airport carry-on baggage screening,6,karen
+104,4,5,airport monitoring screening devices,6,karen
+105,5,6,airport extraordinary luggage screening measures,6,karen
+106,6,7,effectiveness of airport passenger luggage screening,6,karen
+107,7,8,effectiveness of international airport passenger luggage screening,6,karen
+108,8,9,airport security concerns terrorism,6,karen
+109,9,10,impact of airport security on passengers,6,karen
+110,0,1,E-Mail abuse examples,7,karen
+111,1,2,E-Mail abuse consequences,7,karen
+112,2,3,Preventing E-Mail abuse,7,karen
+113,3,4,Desired uses of E-Mail,7,karen
+114,4,5,Costs of E-Mail,7,karen
+115,5,6,Benefits of E-Mail,7,karen
+116,6,7,E-Mail usage policies,7,karen
+117,7,8,Best practices for E-Mail,7,karen
+118,8,9,E-Mail abuse case studies,7,karen
+119,9,10,Legal consequences E-Mail abuse,7,karen
+120,0,1,overseas tobacco sales,8,karen
+121,1,2,overseas tobacco sales increase decrease,8,karen
+122,2,3,reason for overseas tobacco sales increase decrease,8,karen
+123,3,4,health findings impact on overseas tobacco sales,8,karen
+124,4,5,aggressive marketing impact on overseas tobacco sales,8,karen
+125,5,6,U.S. tobacco companies selling overseas,8,karen
+126,6,7,foreign companies cooperating with U.S. tobacco companies,8,karen
+127,7,8,economic impact of overseas tobacco sales,8,karen
+128,8,9,health factors impact on overseas tobacco sales,8,karen
+129,9,10,economic factors impact on overseas tobacco sales,8,karen
+130,0,1,wildlife extinction,9,karen
+131,1,2,countries preventing wildlife extinction,9,karen
+132,2,3,endangered species,9,karen
+133,3,4,steps to save species,9,karen
+134,4,5,current wildlife extinction status,9,karen
+135,5,6,causes of wildlife extinction,9,karen
+136,6,7,consequences of wildlife extinction,9,karen
+137,7,8,successful wildlife extinction prevention,9,karen
+138,8,9,unsuccessful wildlife extinction prevention,9,karen
+139,9,10,human role in wildlife extinction,9,karen
+140,0,1,physical disorders computer terminals,10,karen
+141,1,2,widespread physical disorders computer terminals,10,karen
+142,2,3,alleviate physical disorders computer terminals,10,karen
+143,3,4,computer terminals carpel tunnel,10,karen
+144,4,5,computer terminals cataracts,10,karen
+145,5,6,computer terminals fatigue,10,karen
+146,6,7,hazards computer terminals,10,karen
+147,7,8,long-term effects computer terminals,10,karen
+148,8,9,best practices computer terminals physical disorders,10,karen
+149,9,10,ergonomic solutions physical disorders computer terminals,10,karen
+150,0,1,airport security,6,markus
+151,1,2,airport security steps,6,markus
+152,2,3,domestic vs international flight security,6,markus
+153,3,4,new steps for flight safety,6,markus
+154,4,5,effectiveness of airport security,6,markus
+155,5,6,terrorism and airport security,6,markus
+156,6,7,carry-on baggage screening,6,markus
+157,7,8,extraordinary measures for baggage compartment screening,6,markus
+158,8,9,monitoring and screening devices in airport security,6,markus
+159,9,10,whole body imaging impact on airport security,6,markus
+160,0,1,what is email,7,markus
+161,1,2,email abuse examples,7,markus
+162,2,3,who pays for email,7,markus
+163,3,4,desired email uses,7,markus
+164,4,5,prevent email abuse,7,markus
+165,5,6,world-wide email abuse prevention,7,markus
+166,6,7,email abuse consequences,7,markus
+167,7,8,detect email abuse,7,markus
+168,8,9,report email abuse,7,markus
+169,9,10,best practices email usage,7,markus
+170,0,1,overseas tobacco sales,8,markus
+171,1,2,health impact on U.S. tobacco sales,8,markus
+172,2,3,economic impact of U.S. tobacco sales,8,markus
+173,3,4,impact of health and economic factors on overseas tobacco sales,8,markus
+174,4,5,aggressive marketing on overseas tobacco sales,8,markus
+175,5,6,foreign companies cooperating with U.S. tobacco companies,8,markus
+176,6,7,health impact of overseas tobacco sales,8,markus
+177,7,8,economic impact of overseas tobacco sales,8,markus
+178,8,9,reasons for increase or decrease in overseas tobacco sales,8,markus
+179,9,10,consequences of overseas tobacco sales,8,markus
+180,0,1,wildlife extinction,9,markus
+181,1,2,countries preventing wildlife extinction,9,markus
+182,2,3,endangered species,9,markus
+183,3,4,steps to save species,9,markus
+184,4,5,causes of wildlife extinction,9,markus
+185,5,6,impact of wildlife extinction,9,markus
+186,6,7,consequences of not preventing wildlife extinction,9,markus
+187,7,8,successful cases of preventing wildlife extinction,9,markus
+188,8,9,challenges of preventing wildlife extinction,9,markus
+189,9,10,role of humans in wildlife extinction,9,markus
+190,0,1,computer terminal health risks,10,markus
+191,1,2,physical disorders computer terminals,10,markus
+192,2,3,computer terminal health problems widespread,10,markus
+193,3,4,alleviate computer terminal health problems,10,markus
+194,4,5,what is carpel tunnel,10,markus
+195,5,6,what is cataracts,10,markus
+196,6,7,what is fatigue,10,markus
+197,7,8,prevent carpel tunnel,10,markus
+198,8,9,prevent cataracts,10,markus
+199,9,10,prevent fatigue,10,markus
+0,0,1,Antarctica,11,edith
+1,1,2,systematic exploration,11,edith
+2,2,3,scientific investigations,11,edith
+3,3,4,seismology,11,edith
+4,4,5,ionospheric physics,11,edith
+5,5,6,economic development,11,edith
+6,6,7,research in Antarctica,11,edith
+7,7,8,planned research in Antarctica,11,edith
+8,8,9,mineral mining ban Antarctica,11,edith
+9,9,10,impact mineral mining Antarctica,11,edith
+10,0,1,journalist risks,12,edith
+11,1,2,journalist killed instances,12,edith
+12,2,3,journalist arrested instances,12,edith
+13,3,4,journalist taken hostage instances,12,edith
+14,4,5,nature of journalist risks,12,edith
+15,5,6,cause of journalist risks,12,edith
+16,6,7,impact of journalist risks,12,edith
+17,7,8,mitigating journalist risks,12,edith
+18,8,9,history of journalist risks,12,edith
+19,9,10,current journalist risks,12,edith
+20,0,1,ocean remote sensing,13,edith
+21,1,2,space-borne ocean remote sensing,13,edith
+22,2,3,ocean remote sensing development,13,edith
+23,3,4,ocean remote sensing application,13,edith
+24,4,5,oceanography,13,edith
+25,5,6,seabed prospecting,13,edith
+26,6,7,marine-science,13,edith
+27,7,8,satellite remote sensing,13,edith
+28,8,9,synthetic aperture radar,13,edith
+29,9,10,SAR relevance ocean remote sensing,13,edith
+30,0,1,postmenopausal estrogen,14,edith
+31,1,2,effects of estrogen,14,edith
+32,2,3,estrogen use in Britain,14,edith
+33,3,4,benefits of estrogen,14,edith
+34,4,5,risks of estrogen,14,edith
+35,5,6,hormone replacement therapy,14,edith
+36,6,7,estrogen suppressing drugs development,14,edith
+37,7,8,estrogen suppressing drugs marketing,14,edith
+38,8,9,estrogen suppressing drugs side effects,14,edith
+39,9,10,alternatives to estrogen suppressing drugs,14,edith
+40,0,1,human smuggling,15,edith
+41,1,2,incidents of human smuggling,15,edith
+42,2,3,monetary gain from human smuggling,15,edith
+43,3,4,willing participants in human smuggling,15,edith
+44,4,5,consequences of human smuggling,15,edith
+45,5,6,legal implications of human smuggling,15,edith
+46,6,7,history of human smuggling,15,edith
+47,7,8,impact of human smuggling on society,15,edith
+48,8,9,law enforcement and human smuggling,15,edith
+49,9,10,common routes for human smuggling,15,edith
+50,0,1,Antarctica exploration history,11,john
+51,1,2,Antarctica scientific investigations,11,john
+52,2,3,Antarctica systematic explorations,11,john
+53,3,4,Antarctica current research,11,john
+54,4,5,Antarctica future research,11,john
+55,5,6,Antarctica economic development potential,11,john
+56,6,7,Antarctica mineral mining policy,11,john
+57,7,8,Antarctica tourism impact,11,john
+58,8,9,Antarctica disrupting scientific experiments consequences,11,john
+59,9,10,Antarctica specific scientific experiments disrupted,11,john
+60,0,1,journalist risks,12,john
+61,1,2,common journalist risks,12,john
+62,2,3,likelihood of journalist risks,12,john
+63,3,4,reasons for journalist risks,12,john
+64,4,5,consequences of journalist risks,12,john
+65,5,6,protecting journalists,12,john
+66,6,7,legal framework for journalists,12,john
+67,7,8,government role in protecting journalists,12,john
+68,8,9,media role in protecting journalists,12,john
+69,9,10,impact of journalist risks,12,john
+70,0,1,ocean remote sensing,13,john
+71,1,2,space-borne ocean remote sensing,13,john
+72,2,3,ocean remote sensing development,13,john
+73,3,4,ocean remote sensing in oceanography,13,john
+74,4,5,ocean remote sensing in seabed prospecting and mining,13,john
+75,5,6,ocean remote sensing in marine-science activity,13,john
+76,6,7,synthetic aperture radar,13,john
+77,7,8,SAR in ocean remote sensing,13,john
+78,8,9,space-borne ocean remote sensing development documents,13,john
+79,9,10,space-borne ocean remote sensing application in oceanography seabed prospecting and mining marine-science activity documents,13,john
+80,0,1,postmenopausal estrogen,14,john
+81,1,2,estrogen use in Britain,14,john
+82,2,3,benefits of estrogen,14,john
+83,3,4,risks of estrogen,14,john
+84,4,5,hormone replacement therapy,14,john
+85,5,6,estrogen suppressing drug development,14,john
+86,6,7,estrogen suppressing drug marketing,14,john
+87,7,8,estrogen suppressing drug side effects,14,john
+88,8,9,alternatives to estrogen,14,john
+89,9,10,regulations for estrogen use,14,john
+90,0,1,human smuggling,15,john
+91,1,2,incidents of human smuggling,15,john
+92,2,3,monetary gain in human smuggling,15,john
+93,3,4,consequences of human smuggling,15,john
+94,4,5,willing participants in human smuggling,15,john
+95,5,6,legal implications of human smuggling,15,john
+96,6,7,penalties for human smuggling,15,john
+97,7,8,impact of human smuggling,15,john
+98,8,9,methods of human smuggling,15,john
+99,9,10,history of human smuggling,15,john
+100,0,1,Antarctica exploration history,11,karen
+101,1,2,Antarctica scientific investigations,11,karen
+102,2,3,current Antarctica exploration state,11,karen
+103,3,4,planned Antarctica explorations,11,karen
+104,4,5,Antarctica seismology role,11,karen
+105,5,6,Antarctica ionospheric physics role,11,karen
+106,6,7,Antarctica economic developments,11,karen
+107,7,8,Antarctica current research,11,karen
+108,8,9,Antarctica mineral mining ban,11,karen
+109,9,10,Antarctica disrupting experiments consequences,11,karen
+110,0,1,journalist risks,12,karen
+111,1,2,journalist killed instances,12,karen
+112,2,3,journalist arrested instances,12,karen
+113,3,4,journalist taken hostage instances,12,karen
+114,4,5,journalist risk reasons,12,karen
+115,5,6,journalist protection methods,12,karen
+116,6,7,journalist risk consequences,12,karen
+117,7,8,journalist risk impact society,12,karen
+118,8,9,journalist work targeting examples,12,karen
+119,9,10,journalist risk history,12,karen
+120,0,1,ocean remote sensing,13,karen
+121,1,2,space-borne ocean remote sensing,13,karen
+122,2,3,ocean remote sensing development,13,karen
+123,3,4,ocean remote sensing application,13,karen
+124,4,5,oceanography remote sensing,13,karen
+125,5,6,seabed prospecting remote sensing,13,karen
+126,6,7,mining remote sensing,13,karen
+127,7,8,marine-science remote sensing,13,karen
+128,8,9,synthetic aperture radar,13,karen
+129,9,10,SAR in ocean remote sensing,13,karen
+130,0,1,estrogen,14,karen
+131,1,2,hormone replacement therapy,14,karen
+132,2,3,postmenopausal estrogen,14,karen
+133,3,4,use of estrogen in Britain,14,karen
+134,4,5,estrogen suppressing drugs,14,karen
+135,5,6,development of estrogen suppressing drugs in Britain,14,karen
+136,6,7,marketing of estrogen suppressing drugs in Britain,14,karen
+137,7,8,difference between HRT and estrogen suppressing drugs,14,karen
+138,8,9,benefits of postmenopausal estrogen,14,karen
+139,9,10,risks of postmenopausal estrogen,14,karen
+140,0,1,human smuggling,15,karen
+141,1,2,incidents of human smuggling,15,karen
+142,2,3,monetary gain from human smuggling,15,karen
+143,3,4,willing participants in human smuggling,15,karen
+144,4,5,consequences of human smuggling,15,karen
+145,5,6,legal implications of human smuggling,15,karen
+146,6,7,routes of human smuggling,15,karen
+147,7,8,methods of human smuggling,15,karen
+148,8,9,organizations combating human smuggling,15,karen
+149,9,10,preventing human smuggling,15,karen
+150,0,1,Antarctica,11,markus
+151,1,2,systematic exploration,11,markus
+152,2,3,scientific investigations,11,markus
+153,3,4,seismology,11,markus
+154,4,5,ionospheric physics,11,markus
+155,5,6,economic development,11,markus
+156,6,7,current research Antarctica,11,markus
+157,7,8,future research Antarctica,11,markus
+158,8,9,mineral mining ban Antarctica,11,markus
+159,9,10,tourism impact Antarctica,11,markus
+160,0,1,what is a journalist,12,markus
+161,1,2,journalist risks,12,markus
+162,2,3,journalists killed instances,12,markus
+163,3,4,journalists arrested instances,12,markus
+164,4,5,journalists taken hostage instances,12,markus
+165,5,6,journalist work performance,12,markus
+166,6,7,dangerous countries for journalists,12,markus
+167,7,8,reasons for journalist risks,12,markus
+168,8,9,journalist protection measures,12,markus
+169,9,10,impact of journalist risks,12,markus
+170,0,1,ocean remote sensing,13,markus
+171,1,2,space-borne ocean remote sensing,13,markus
+172,2,3,ocean remote sensing development,13,markus
+173,3,4,ocean remote sensing application,13,markus
+174,4,5,oceanography,13,markus
+175,5,6,seabed prospecting,13,markus
+176,6,7,marine-science,13,markus
+177,7,8,synthetic aperture radar,13,markus
+178,8,9,SAR relevance ocean remote sensing,13,markus
+179,9,10,ocean remote sensing benefits,13,markus
+180,0,1,postmenopausal estrogen,14,markus
+181,1,2,estrogen use in Britain,14,markus
+182,2,3,benefits of estrogen Britain,14,markus
+183,3,4,risks of estrogen Britain,14,markus
+184,4,5,hormone replacement therapy,14,markus
+185,5,6,UK estrogen suppressing drugs,14,markus
+186,6,7,marketing estrogen suppressing drugs Britain,14,markus
+187,7,8,estrogen suppressing drugs side effects,14,markus
+188,8,9,effectiveness estrogen suppressing drugs,14,markus
+189,9,10,alternatives estrogen suppressing drugs,14,markus
+190,0,1,human smuggling,15,markus
+191,1,2,incidents of human smuggling,15,markus
+192,2,3,monetary gain from human smuggling,15,markus
+193,3,4,willing participants in human smuggling,15,markus
+194,4,5,consequences of human smuggling,15,markus
+195,5,6,legal implications of human smuggling,15,markus
+196,6,7,methods of human smuggling,15,markus
+197,7,8,countries involved in human smuggling,15,markus
+198,8,9,impact of human smuggling on society,15,markus
+199,9,10,measures to prevent human smuggling,15,markus
+0,0,1,transportation tunnel disasters,16,edith
+1,1,2,examples of tunnel disasters,16,edith
+2,2,3,causes of tunnel disasters,16,edith
+3,3,4,effects of tunnel disasters,16,edith
+4,4,5,common tunnel disasters,16,edith
+5,5,6,history of tunnel disasters,16,edith
+6,6,7,safety measures for tunnel disasters,16,edith
+7,7,8,legal implications of tunnel disasters,16,edith
+8,8,9,economic impacts of tunnel disasters,16,edith
+9,9,10,environmental impacts of tunnel disasters,16,edith
+10,0,1,modern piracy,17,edith
+11,1,2,recent piracy instances,17,edith
+12,2,3,definition of piracy,17,edith
+13,3,4,piracy vs legal taking,17,edith
+14,4,5,consequences of piracy,17,edith
+15,5,6,history of piracy,17,edith
+16,6,7,causes of piracy,17,edith
+17,7,8,impact of piracy economy,17,edith
+18,8,9,international response piracy,17,edith
+19,9,10,methods of piracy boarding,17,edith
+20,0,1,Native American casino gambling,18,edith
+21,1,2,social implications casino gambling,18,edith
+22,2,3,Native American casino gambling local economies,18,edith
+23,3,4,Native American casino gambling Native American economies,18,edith
+24,4,5,legal aspects tribal autonomy casino gambling,18,edith
+25,5,6,Native American casino gambling growth,18,edith
+26,6,7,benefits Native American casino gambling,18,edith
+27,7,8,drawbacks Native American casino gambling,18,edith
+28,8,9,history Native American casino gambling,18,edith
+29,9,10,future Native American casino gambling,18,edith
+30,0,1,hydrogen energy,19,edith
+31,1,2,controlled hydrogen fusion,19,edith
+32,2,3,feasibility of hydrogen energy,19,edith
+33,3,4,status of hydrogen research,19,edith
+34,4,5,progress in hydrogen research,19,edith
+35,5,6,hydrogen fuel,19,edith
+36,6,7,hydrogen fuel engines,19,edith
+37,7,8,benefits of hydrogen energy,19,edith
+38,8,9,drawbacks of hydrogen energy,19,edith
+39,9,10,challenges in hydrogen technology development,19,edith
+40,0,1,what is the euro,20,edith
+41,1,2,euro opposition,20,edith
+42,2,3,countries opposing euro,20,edith
+43,3,4,individuals opposing euro reasons,20,edith
+44,4,5,consequences of euro opposition,20,edith
+45,5,6,benefits of euro opposition,20,edith
+46,6,7,economic implications euro opposition,20,edith
+47,7,8,political implications euro opposition,20,edith
+48,8,9,social implications euro opposition,20,edith
+49,9,10,historical reasons euro opposition,20,edith
+50,0,1,transportation tunnels,16,john
+51,1,2,examples of transportation tunnels,16,john
+52,2,3,transportation tunnel disasters,16,john
+53,3,4,causes of tunnel disasters,16,john
+54,4,5,accidental tunnel disasters,16,john
+55,5,6,planned tunnel disasters,16,john
+56,6,7,fire tunnel disasters,16,john
+57,7,8,earthquake tunnel disasters,16,john
+58,8,9,flood tunnel disasters,16,john
+59,9,10,explosion tunnel disasters,16,john
+60,0,1,definition of piracy,17,john
+61,1,2,modern piracy instances,17,john
+62,2,3,definition of boarding,17,john
+63,3,4,definition of taking control,17,john
+64,4,5,piracy vs legal taking,17,john
+65,5,6,non-relevant piracy documents,17,john
+66,6,7,history of piracy,17,john
+67,7,8,consequences of piracy,17,john
+68,8,9,international law piracy,17,john
+69,9,10,punishment for piracy,17,john
+70,0,1,Native American casino gambling,18,john
+71,1,2,Native American casino gambling social implications,18,john
+72,2,3,Native American casino gambling local economy effect,18,john
+73,3,4,Native American casino gambling Native American economy effect,18,john
+74,4,5,Native American casino gambling legal aspects tribal autonomy,18,john
+75,5,6,Native American casino gambling growth rate,18,john
+76,6,7,Native American casino gambling benefits,18,john
+77,7,8,Native American casino gambling drawbacks,18,john
+78,8,9,Native American casino gambling history,18,john
+79,9,10,Native American casino gambling future,18,john
+80,0,1,hydrogen energy,19,john
+81,1,2,hydrogen energy research status,19,john
+82,2,3,controlled hydrogen fusion,19,john
+83,3,4,hydrogen fuel feasibility,19,john
+84,4,5,hydrogen fuel benefits,19,john
+85,5,6,hydrogen fuel drawbacks,19,john
+86,6,7,hydrogen fuel challenges,19,john
+87,7,8,hydrogen energy potential future,19,john
+88,8,9,latest hydrogen energy developments,19,john
+89,9,10,hydrogen energy safety concerns,19,john
+90,0,1,what is the euro,20,john
+91,1,2,euro opposition,20,john
+92,2,3,countries opposing euro,20,john
+93,3,4,individuals opposing euro,20,john
+94,4,5,reasons for euro opposition,20,john
+95,5,6,euro opposition reasons,20,john
+96,6,7,consequences of euro opposition,20,john
+97,7,8,impact of euro opposition,20,john
+98,8,9,alternatives to euro,20,john
+99,9,10,history of euro opposition,20,john
+100,0,1,transportation tunnel disasters,16,karen
+101,1,2,examples of tunnel disasters,16,karen
+102,2,3,causes of tunnel disasters,16,karen
+103,3,4,effects of tunnel disasters,16,karen
+104,4,5,history of tunnel disasters,16,karen
+105,5,6,safety measures for tunnel disasters,16,karen
+106,6,7,legal implications of tunnel disasters,16,karen
+107,7,8,economic impacts of tunnel disasters,16,karen
+108,8,9,environmental impacts of tunnel disasters,16,karen
+109,9,10,emergency response for tunnel disasters,16,karen
+110,0,1,piracy definition,17,karen
+111,1,2,modern piracy instances,17,karen
+112,2,3,taking control of boats definition,17,karen
+113,3,4,legal taking vs piracy,17,karen
+114,4,5,national authority taking ships examples,17,karen
+115,5,6,fishing vessel clashes definition,17,karen
+116,6,7,relevant fishing vessel clashes conditions,17,karen
+117,7,8,piracy consequences,17,karen
+118,8,9,piracy causes,17,karen
+119,9,10,piracy history,17,karen
+120,0,1,Native American casino gambling,18,karen
+121,1,2,social implications of casino gambling,18,karen
+122,2,3,Native American casino gambling local economy effects,18,karen
+123,3,4,Native American casino gambling Native American economy effects,18,karen
+124,4,5,legal aspects of Native American casino gambling,18,karen
+125,5,6,Native American casino gambling growth,18,karen
+126,6,7,benefits of Native American casino gambling,18,karen
+127,7,8,drawbacks of Native American casino gambling,18,karen
+128,8,9,local residents opinions on casino gambling,18,karen
+129,9,10,Native American tribes opinions on casino gambling,18,karen
+130,0,1,hydrogen energy,19,karen
+131,1,2,controlled hydrogen fusion,19,karen
+132,2,3,research status hydrogen energy,19,karen
+133,3,4,progress hydrogen energy research,19,karen
+134,4,5,hydrogen fuel engines,19,karen
+135,5,6,feasibility hydrogen energy source,19,karen
+136,6,7,benefits hydrogen energy source,19,karen
+137,7,8,challenges hydrogen energy source,19,karen
+138,8,9,latest developments hydrogen energy research,19,karen
+139,9,10,potential applications hydrogen energy,19,karen
+140,0,1,euro currency,20,karen
+141,1,2,euro opposition,20,karen
+142,2,3,reasons for euro opposition,20,karen
+143,3,4,countries opposing euro,20,karen
+144,4,5,individuals opposing euro,20,karen
+145,5,6,consequences of euro opposition,20,karen
+146,6,7,benefits of euro opposition,20,karen
+147,7,8,history of euro opposition,20,karen
+148,8,9,current state of euro opposition,20,karen
+149,9,10,future implications of euro opposition,20,karen
+150,0,1,transportation tunnel disaster,16,markus
+151,1,2,examples of tunnel disasters,16,markus
+152,2,3,causes of tunnel disasters,16,markus
+153,3,4,effects of tunnel disasters,16,markus
+154,4,5,types of affected tunnels,16,markus
+155,5,6,history of tunnel disasters,16,markus
+156,6,7,preventative measures for tunnel disasters,16,markus
+157,7,8,consequences of tunnel disasters,16,markus
+158,8,9,recent tunnel disasters,16,markus
+159,9,10,similarities differences tunnel disasters,16,markus
+160,0,1,piracy definition,17,markus
+161,1,2,modern piracy instances,17,markus
+162,2,3,boat control definition,17,markus
+163,3,4,boat control examples,17,markus
+164,4,5,legal taking vs piracy,17,markus
+165,5,6,national authority role in piracy,17,markus
+166,6,7,fishing vessel clashes,17,markus
+167,7,8,relevant fishing vessel piracy,17,markus
+168,8,9,vessel boarding consequences,17,markus
+169,9,10,piracy consequences,17,markus
+170,0,1,Native American casino gambling,18,markus
+171,1,2,Native American casino gambling social implications,18,markus
+172,2,3,Native American casino gambling local economies,18,markus
+173,3,4,Native American casino gambling impact on Native American economies,18,markus
+174,4,5,Native American tribal autonomy in casino gambling,18,markus
+175,5,6,Native American casino gambling growth rate,18,markus
+176,6,7,benefits of Native American casino gambling,18,markus
+177,7,8,drawbacks of Native American casino gambling,18,markus
+178,8,9,history of Native American casino gambling,18,markus
+179,9,10,future of Native American casino gambling,18,markus
+180,0,1,hydrogen energy,19,markus
+181,1,2,controlled hydrogen fusion,19,markus
+182,2,3,hydrogen fuel use,19,markus
+183,3,4,hydrogen fuel benefits,19,markus
+184,4,5,hydrogen energy research status,19,markus
+185,5,6,hydrogen energy research progress,19,markus
+186,6,7,feasibility of hydrogen energy,19,markus
+187,7,8,challenges of hydrogen fuel,19,markus
+188,8,9,potential applications of hydrogen energy,19,markus
+189,9,10,environmental impact of hydrogen fuel,19,markus
+190,0,1,what is euro,20,markus
+191,1,2,euro opposition,20,markus
+192,2,3,reasons for euro opposition,20,markus
+193,3,4,countries opposing euro,20,markus
+194,4,5,individuals opposing euro,20,markus
+195,5,6,consequences of euro opposition,20,markus
+196,6,7,history of euro opposition,20,markus
+197,7,8,benefits of euro opposition,20,markus
+198,8,9,drawbacks of euro opposition,20,markus
+199,9,10,future of euro opposition,20,markus
+0,0,1,mainstreaming,21,edith
+1,1,2,pros and cons mainstreaming,21,edith
+2,2,3,benefits mainstreaming impaired children,21,edith
+3,3,4,teacher attitudes mainstreaming,21,edith
+4,4,5,school administrator beliefs mainstreaming,21,edith
+5,5,6,concerns mainstreaming teachers administrators,21,edith
+6,6,7,mainstreaming impact normal children,21,edith
+7,7,8,challenges mainstreaming,21,edith
+8,8,9,best practices mainstreaming,21,edith
+9,9,10,legal requirements mainstreaming,21,edith
+10,0,1,illegal technology transfer,22,edith
+11,1,2,accused illegal technology transfer,22,edith
+12,2,3,illegally transferred products,22,edith
+13,3,4,illegally transferred formulas,22,edith
+14,4,5,consequences illegal technology transfer,22,edith
+15,5,6,definition peaceful purposes,22,edith
+16,6,7,countries illegal technology transfer,22,edith
+17,7,8,violated laws illegal technology transfer,22,edith
+18,8,9,impact illegal technology transfer national security,22,edith
+19,9,10,prevent illegal technology transfer measures,22,edith
+20,0,1,mercy killing definition,23,edith
+21,1,2,mercy killing examples,23,edith
+22,2,3,removing life support systems,23,edith
+23,3,4,mercy killing life support removal cases,23,edith
+24,4,5,murder-suicide in mercy killing,23,edith
+25,5,6,mercy killing documents,23,edith
+26,6,7,legal implications of mercy killing,23,edith
+27,7,8,ethical considerations of mercy killing,23,edith
+28,8,9,types of mercy killing,23,edith
+29,9,10,consequences of mercy killing,23,edith
+30,0,1,home schooling,24,edith
+31,1,2,benefits of home schooling,24,edith
+32,2,3,drawbacks of home schooling,24,edith
+33,3,4,home schooling success rate,24,edith
+34,4,5,legal requirements home schooling,24,edith
+35,5,6,home schooling programs,24,edith
+36,6,7,community acceptance home schooling,24,edith
+37,7,8,education disadvantaged children away-from-school,24,edith
+38,8,9,mobile vehicle classrooms,24,edith
+39,9,10,effectiveness mobile vehicle classrooms home schooling,24,edith
+40,0,1,automobile recalls,25,edith
+41,1,2,major reasons for automobile recalls,25,edith
+42,2,3,minor reasons for automobile recalls,25,edith
+43,3,4,car manufacturers automobile recalls,25,edith
+44,4,5,major vs minor automobile recalls,25,edith
+45,5,6,consequences of automobile recalls,25,edith
+46,6,7,legal implications automobile recalls,25,edith
+47,7,8,safety concerns automobile recalls,25,edith
+48,8,9,process automobile recall,25,edith
+49,9,10,history automobile recalls suburbs San Diego,25,edith
+50,0,1,mainstreaming,21,john
+51,1,2,pros cons mainstreaming physical impairments,21,john
+52,2,3,pros cons mainstreaming mental impairments,21,john
+53,3,4,benefits mainstreaming impaired children,21,john
+54,4,5,teacher attitude mainstreaming,21,john
+55,5,6,school administrator beliefs mainstreaming,21,john
+56,6,7,concerns mainstreaming teachers school administrators,21,john
+57,7,8,effects mainstreaming normal children,21,john
+58,8,9,challenges mainstreaming physical mental impairments,21,john
+59,9,10,best practices mainstreaming physical mental impairments,21,john
+60,0,1,illegal technology transfer,22,john
+61,1,2,accused illegal technology transfer,22,john
+62,2,3,selling products for hostile purposes,22,john
+63,3,4,selling formulas for hostile purposes,22,john
+64,4,5,foreign entities in illegal technology transfer,22,john
+65,5,6,peaceful purposes of technology transfer,22,john
+66,6,7,violated laws in illegal technology transfer,22,john
+67,7,8,consequences of illegal technology transfer,22,john
+68,8,9,legal definition of illegal technology transfer,22,john
+69,9,10,penalties for illegal technology transfer,22,john
+70,0,1,mercy killing,23,john
+71,1,2,individual mercy killing cases,23,john
+72,2,3,life support and mercy killing,23,john
+73,3,4,irrelevant aspects of mercy killing,23,john
+74,4,5,mercy killing documents,23,john
+75,5,6,legal implications of mercy killing,23,john
+76,6,7,ethical implications of mercy killing,23,john
+77,7,8,types of mercy killing,23,john
+78,8,9,history of mercy killing,23,john
+79,9,10,arguments for mercy killing,23,john
+80,0,1,home schooling,24,john
+81,1,2,benefits of home schooling,24,john
+82,2,3,drawbacks of home schooling,24,john
+83,3,4,legal requirements home schooling,24,john
+84,4,5,successful home schooling programs,24,john
+85,5,6,community acceptance home schooling,24,john
+86,6,7,success rate home schooling,24,john
+87,7,8,programs aiding disadvantaged children,24,john
+88,8,9,impact mobile vehicle classrooms,24,john
+89,9,10,resources for home schooling,24,john
+90,0,1,automobile recalls,25,john
+91,1,2,reasons for automobile recalls,25,john
+92,2,3,major reasons for automobile recalls,25,john
+93,3,4,minor reasons for automobile recalls,25,john
+94,4,5,car manufacturers automobile recalls,25,john
+95,5,6,documents automobile recalls,25,john
+96,6,7,documents major reasons automobile recalls,25,john
+97,7,8,documents minor reasons automobile recalls,25,john
+98,8,9,documents automobile recalls car manufacturers,25,john
+99,9,10,documents automobile recalls not truck recalls,25,john
+100,0,1,mainstreaming,21,karen
+101,1,2,pros and cons of mainstreaming,21,karen
+102,2,3,benefits of mainstreaming for impaired children,21,karen
+103,3,4,teacher attitudes towards mainstreaming,21,karen
+104,4,5,school administrator beliefs towards mainstreaming,21,karen
+105,5,6,concerns of teachers and school administrators towards mainstreaming,21,karen
+106,6,7,impact of mainstreaming on normal children,21,karen
+107,7,8,challenges of mainstreaming impaired children,21,karen
+108,8,9,best practices for mainstreaming impaired children,21,karen
+109,9,10,legal requirements for mainstreaming impaired children,21,karen
+110,0,1,illegal technology transfer,22,karen
+111,1,2,accused illegal technology transfer,22,karen
+112,2,3,companies illegal technology transfer,22,karen
+113,3,4,governmental entities illegal technology transfer,22,karen
+114,4,5,illegally transferred articles,22,karen
+115,5,6,purpose of transferred articles,22,karen
+116,6,7,hostile purposes definition,22,karen
+117,7,8,foreign entities involved,22,karen
+118,8,9,violated laws,22,karen
+119,9,10,provider's country,22,karen
+120,0,1,mercy killing definition,23,karen
+121,1,2,individual mercy killing cases,23,karen
+122,2,3,removing life support systems,23,karen
+123,3,4,mercy killing life support,23,karen
+124,4,5,mercy killing murder-suicide,23,karen
+125,5,6,non-murder-suicide mercy killing,23,karen
+126,6,7,mercy killing documents,23,karen
+127,7,8,legal implications mercy killing,23,karen
+128,8,9,ethical considerations mercy killing,23,karen
+129,9,10,perspectives on mercy killing,23,karen
+130,0,1,home schooling definition,24,karen
+131,1,2,benefits of home schooling,24,karen
+132,2,3,drawbacks of home schooling,24,karen
+133,3,4,legal requirements for home schooling,24,karen
+134,4,5,home schooling success rate,24,karen
+135,5,6,home schooling programs,24,karen
+136,6,7,community view on home schooling,24,karen
+137,7,8,impact of home schooling on socialization,24,karen
+138,8,9,role of parents in home schooling,24,karen
+139,9,10,role of mobile vehicle classrooms in home schooling,24,karen
+140,0,1,automobile recalls major reasons,25,karen
+141,1,2,automobile recalls minor reasons,25,karen
+142,2,3,car manufacturers automobile recalls,25,karen
+143,3,4,reasons for automobile recalls by car manufacturers,25,karen
+144,4,5,documents discussing automobile recalls,25,karen
+145,5,6,relevant documents automobile recalls,25,karen
+146,6,7,documents discussing truck recalls,25,karen
+147,7,8,difference major minor automobile recalls,25,karen
+148,8,9,consequences automobile recalls,25,karen
+149,9,10,legal implications automobile recalls,25,karen
+150,0,1,mainstreaming,21,markus
+151,1,2,pros cons mainstreaming impairments,21,markus
+152,2,3,benefits mainstreaming impaired children,21,markus
+153,3,4,teacher attitudes mainstreaming,21,markus
+154,4,5,school administrator beliefs mainstreaming,21,markus
+155,5,6,concerns mainstreaming teachers administrators,21,markus
+156,6,7,mainstreaming normal children,21,markus
+157,7,8,challenges mainstreaming impairments,21,markus
+158,8,9,best practices mainstreaming impairments,21,markus
+159,9,10,legal requirements mainstreaming impairments,21,markus
+160,0,1,illegal technology transfer,22,markus
+161,1,2,entities in illegal technology transfer,22,markus
+162,2,3,accused entities in illegal technology transfer,22,markus
+163,3,4,consequences of illegal technology transfer,22,markus
+164,4,5,definition of hostile purposes,22,markus
+165,5,6,laws violated in illegal technology transfer,22,markus
+166,6,7,products in illegal technology transfer,22,markus
+167,7,8,direct vs indirect illegal technology transfer,22,markus
+168,8,9,purpose of illegal technology transfer,22,markus
+169,9,10,impact of illegal technology transfer on peaceful purposes,22,markus
+170,0,1,mercy killing,23,markus
+171,1,2,individual mercy killing cases,23,markus
+172,2,3,life support in mercy killing,23,markus
+173,3,4,irrelevant mercy killing mentions,23,markus
+174,4,5,murder-suicide in mercy killing,23,markus
+175,5,6,mercy killing documents,23,markus
+176,6,7,ethical considerations mercy killing,23,markus
+177,7,8,legal implications mercy killing,23,markus
+178,8,9,history mercy killing,23,markus
+179,9,10,perspectives mercy killing,23,markus
+180,0,1,home schooling definition,24,markus
+181,1,2,home schooling benefits,24,markus
+182,2,3,home schooling drawbacks,24,markus
+183,3,4,home schooling success rate,24,markus
+184,4,5,home schooling legal requirements,24,markus
+185,5,6,home schooling approaches,24,markus
+186,6,7,home schooling curriculums,24,markus
+187,7,8,home schooling resources,24,markus
+188,8,9,home schooling assessment methods,24,markus
+189,9,10,home schooling programs disadvantaged children,24,markus
+190,0,1,automobile recalls,25,markus
+191,1,2,reasons for automobile recalls,25,markus
+192,2,3,major reasons automobile recalls,25,markus
+193,3,4,minor reasons automobile recalls,25,markus
+194,4,5,car manufacturers automobile recalls,25,markus
+195,5,6,documents automobile recalls,25,markus
+196,6,7,relevant documents automobile recalls,25,markus
+197,7,8,truck recalls,25,markus
+198,8,9,relevant documents truck recalls,25,markus
+199,9,10,differences truck automobile recalls,25,markus
+0,0,1,oceanographic vessels,26,edith
+1,1,2,undersea mapping,26,edith
+2,2,3,oceanographic vessels global warming monitoring,26,edith
+3,3,4,marine environmental monitoring,26,edith
+4,4,5,deep sea robots sunken ships,26,edith
+5,5,6,oceanographic vessel equipment,26,edith
+6,6,7,oceanographic vessel equipment research development,26,edith
+7,7,8,oceanic resources,26,edith
+8,8,9,oceanographic vessels exploring oceanic resources,26,edith
+9,9,10,survey ship oceanographic activity,26,edith
+10,0,1,Amazon rain forest,27,edith
+11,1,2,official organizations institutions,27,edith
+12,2,3,measures to preserve,27,edith
+13,3,4,degrees of success,27,edith
+14,4,5,individuals roles,27,edith
+15,5,6,challenges in preservation,27,edith
+16,6,7,consequences of not preserving,27,edith
+17,7,8,history of Amazon rain forest,27,edith
+18,8,9,economic benefits of preservation,27,edith
+19,9,10,cultural significance to South America,27,edith
+20,0,1,Ireland peace talks history,28,edith
+21,1,2,peace talks violence disruption,28,edith
+22,2,3,causes peace talk disruption,28,edith
+23,3,4,Ireland peace talk outcomes,28,edith
+24,4,5,current status peace talks,28,edith
+25,5,6,violence role peace talks,28,edith
+26,6,7,challenges peace talks,28,edith
+27,7,8,key players peace talks,28,edith
+28,8,9,terms peace agreement Ireland,28,edith
+29,9,10,impact peace agreement Ireland,28,edith
+30,0,1,tropical storms,29,edith
+31,1,2,hurricanes vs typhoons,29,edith
+32,2,3,tropical storms property damage,29,edith
+33,3,4,tropical storms loss of life,29,edith
+34,4,5,recent tropical storm date,29,edith
+35,5,6,tropical storm affected areas,29,edith
+36,6,7,tropical storm damage extent,29,edith
+37,7,8,tropical storm casualties number,29,edith
+38,8,9,destructive tropical storms history,29,edith
+39,9,10,approaching tropical storm warning signs,29,edith
+40,0,1,Cuba sugar trade,30,edith
+41,1,2,Cuba sugar export,30,edith
+42,2,3,Cuba sugar export countries,30,edith
+43,3,4,Cuba sugar trade history,30,edith
+44,4,5,Cuba sugar export benefits,30,edith
+45,5,6,Cuba sugar export environment,30,edith
+46,6,7,Cuba sugar export society,30,edith
+47,7,8,Cuba sugar trade future,30,edith
+48,8,9,Cuba sugar export challenges,30,edith
+49,9,10,US sanctions Cuba sugar export,30,edith
+50,0,1,oceanographic vessels,26,john
+51,1,2,undersea mapping,26,john
+52,2,3,global warming monitoring,26,john
+53,3,4,marine environmental monitoring,26,john
+54,4,5,deep sea robots,26,john
+55,5,6,deep sea robots use,26,john
+56,6,7,oceanographic vessels sunken ships,26,john
+57,7,8,oceanographic vessels equipment research development,26,john
+58,8,9,oceanographic vessels oceanic resources exploration,26,john
+59,9,10,survey ship oceanographic activity,26,john
+60,0,1,Amazon rain forest,27,john
+61,1,2,official organizations preserving Amazon rain forest,27,john
+62,2,3,individuals preserving Amazon rain forest,27,john
+63,3,4,measures to preserve Amazon rain forest,27,john
+64,4,5,South American authorities preserving Amazon rain forest,27,john
+65,5,6,degree of success preserving Amazon rain forest,27,john
+66,0,1,Ireland peace talks status,28,john
+67,1,2,delayed peace talks Ireland,28,john
+68,2,3,disruptions in Ireland peace talks,28,john
+69,3,4,acts of violence Ireland peace talks,28,john
+70,4,5,preventing interruptions peace talks Ireland,28,john
+71,5,6,history of Ireland peace talks,28,john
+72,6,7,external factors Ireland peace talks,28,john
+73,7,8,political parties Ireland peace talks,28,john
+74,8,9,Brexit impact Ireland peace talks,28,john
+75,9,10,future of Ireland peace talks,28,john
+76,0,1,tropical storms,29,john
+77,1,2,hurricanes vs typhoons,29,john
+78,2,3,tropical storms property damage,29,john
+79,3,4,tropical storms loss of life,29,john
+80,4,5,recent tropical storm date,29,john
+81,5,6,tropical storm affected areas,29,john
+82,6,7,tropical storm damage extent,29,john
+83,7,8,tropical storm casualties number,29,john
+84,8,9,deadliest tropical storm record,29,john
+85,9,10,costliest tropical storm record,29,john
+86,0,1,Cuba sugar trade,30,john
+87,1,2,Cuban sugar exports,30,john
+88,2,3,Cuban sugar import countries,30,john
+89,3,4,Cuban sugar export volume,30,john
+90,4,5,Cuban sugar export value,30,john
+91,5,6,Cuban sugar export history,30,john
+92,6,7,Cuban sugar export regulations,30,john
+93,7,8,Cuban sugar export impact economy,30,john
+94,8,9,Cuban sugar export future,30,john
+95,9,10,Cuban sugar export challenges,30,john
+96,0,1,oceanographic vessels,26,karen
+97,1,2,oceanographic vessel activities,26,karen
+98,2,3,undersea mapping,26,karen
+99,3,4,global warming monitoring oceanographic vessels,26,karen
+100,4,5,marine environmental monitoring,26,karen
+101,5,6,deep sea robots oceanography,26,karen
+102,6,7,sunken ships oceanographic vessels,26,karen
+103,7,8,equipment aboard oceanographic vessels,26,karen
+104,8,9,research development equipment oceanographic vessels,26,karen
+105,9,10,oceanic resources exploration oceanographic vessels,26,karen
+106,0,1,Amazon rain forest,27,karen
+107,1,2,official organizations institutions Amazon rain forest,27,karen
+108,2,3,measures to preserve Amazon rain forest,27,karen
+109,3,4,success in preserving Amazon rain forest,27,karen
+110,4,5,individuals preserving Amazon rain forest,27,karen
+111,5,6,South American authorities Amazon rain forest,27,karen
+112,6,7,challenges preserving Amazon rain forest,27,karen
+113,7,8,consequences not preserving Amazon rain forest,27,karen
+114,8,9,economic benefits preserving Amazon rain forest,27,karen
+115,9,10,environmental benefits preserving Amazon rain forest,27,karen
+116,0,1,Ireland peace talks history,28,karen
+117,1,2,peace talks delays disruptions,28,karen
+118,2,3,reasons for delays disruptions,28,karen
+119,3,4,non-violent delays disruptions,28,karen
+120,4,5,consequences of delays disruptions,28,karen
+121,5,6,key players peace talks,28,karen
+122,6,7,outcomes peace talks,28,karen
+123,7,8,impact peace talks Ireland,28,karen
+124,8,9,challenges peace talks,28,karen
+125,9,10,international community peace talks role,28,karen
+126,0,1,tropical storms,29,karen
+127,1,2,hurricanes vs typhoons,29,karen
+128,2,3,tropical storms property damage,29,karen
+129,3,4,tropical storms loss of life,29,karen
+130,4,5,recent tropical storm date,29,karen
+131,5,6,tropical storm affected areas,29,karen
+132,6,7,tropical storm damage extent,29,karen
+133,7,8,tropical storm casualties,29,karen
+134,8,9,deadliest tropical storms,29,karen
+135,9,10,destructive tropical storms,29,karen
+136,0,1,Cuba sugar trade history,30,karen
+137,1,2,Cuba sugar production,30,karen
+138,2,3,Cuba sugar industry current,30,karen
+139,3,4,Cuba sugar exports volume,30,karen
+140,4,5,Cuba sugar exports countries,30,karen
+141,5,6,Cuba sugar exports price,30,karen
+142,6,7,Cuba sugar exports quality,30,karen
+143,7,8,Cuba sugar exports trade agreements,30,karen
+144,8,9,Cuba sugar exports impact,30,karen
+145,9,10,Cuba sugar trade future,30,karen
+146,0,1,oceanographic vessels,26,markus
+147,1,2,undersea mapping,26,markus
+148,2,3,oceanographic vessels global warming,26,markus
+149,3,4,marine environmental monitoring,26,markus
+150,4,5,deep sea robots oceanography,26,markus
+151,5,6,oceanographic vessels sunken ships,26,markus
+152,6,7,oceanographic vessel equipment,26,markus
+153,7,8,oceanographic vessels research development,26,markus
+154,8,9,oceanographic vessels oceanic resources,26,markus
+155,9,10,survey ship oceanographic activity,26,markus
+156,0,1,Amazon rain forest,27,markus
+157,1,2,official organizations Amazon rain forest,27,markus
+158,2,3,institutions Amazon rain forest,27,markus
+159,3,4,individuals Amazon rain forest,27,markus
+160,4,5,measures to preserve Amazon rain forest,27,markus
+161,5,6,degrees of success Amazon rain forest,27,markus
+162,6,7,countries in Amazon rain forest,27,markus
+163,7,8,official authorities South America Amazon rain forest,27,markus
+164,8,9,measures local South American authorities Amazon rain forest,27,markus
+165,9,10,degrees of success measures local South American authorities Amazon rain forest,27,markus
+166,0,1,Ireland peace talks,28,markus
+167,1,2,peace talks disruptions,28,markus
+168,2,3,cause of peace talks disruptions,28,markus
+169,3,4,violence and peace talks,28,markus
+170,4,5,Ireland peace process,28,markus
+171,5,6,current peace process status,28,markus
+172,6,7,history of peace process,28,markus
+173,7,8,violence impact on peace process,28,markus
+174,8,9,consequences of peace talks disruption,28,markus
+175,9,10,government role in peace process,28,markus
+176,0,1,tropical storms,29,markus
+177,1,2,hurricanes vs typhoons,29,markus
+178,2,3,tropical storms property damage,29,markus
+179,3,4,tropical storms loss of life,29,markus
+180,4,5,recent tropical storm date,29,markus
+181,5,6,tropical storm affected areas,29,markus
+182,6,7,tropical storm damage extent,29,markus
+183,7,8,tropical storm casualties,29,markus
+184,8,9,most destructive tropical storm,29,markus
+185,9,10,likelihood of tropical storm Sheffield,29,markus
+186,0,1,Cuba sugar trade,30,markus
+187,1,2,Cuba sugar exports,30,markus
+188,2,3,Cuba sugar export countries,30,markus
+189,3,4,Cuba sugar trade history,30,markus
+190,4,5,Cuba sugar export benefits,30,markus
+191,5,6,Cuba sugar export environment,30,markus
+192,6,7,Cuba sugar export politics,30,markus
+193,7,8,Cuba sugar trade culture,30,markus
+194,8,9,Cuba sugar export challenges,30,markus
+195,9,10,Cuba sugar trade future,30,markus
+0,0,1,Three Gorges Project,31,edith
+1,1,2,Three Gorges Project status,31,edith
+2,2,3,Three Gorges Project completion date,31,edith
+3,3,4,Three Gorges Project total cost,31,edith
+4,4,5,Three Gorges Project electrical output,31,edith
+5,0,1,tire recycling,32,edith
+6,1,2,uses for recycled tires,32,edith
+7,2,3,advantageous uses for recycled tires,32,edith
+8,3,4,destructive distillation,32,edith
+9,4,5,valuable chemicals from scrap rubber,32,edith
+10,5,6,recycled tires for reef building,32,edith
+11,6,7,fish habitats using recycled tires,32,edith
+12,7,8,recycled tires as filler binder asphalt,32,edith
+13,8,9,burning controlled environment,32,edith
+14,9,10,recycled tires for heat generation,32,edith
+15,0,1,art definition,33,edith
+16,1,2,stolen art,33,edith
+17,2,3,forged art,33,edith
+18,3,4,incidents stolen art,33,edith
+19,4,5,incidents forged art,33,edith
+20,5,6,media stolen art,33,edith
+21,6,7,media forged art,33,edith
+22,7,8,consequences stolen art,33,edith
+23,8,9,consequences forged art,33,edith
+24,9,10,history stolen forged art,33,edith
+25,0,1,Mirjana Markovic,34,edith
+26,1,2,Milosevic and Markovic relationship,34,edith
+27,2,3,Milosevic's wife nickname,34,edith
+28,3,4,Markovic's role in Milosevic's presidency,34,edith
+29,4,5,notable events involving Milosevic and Markovic,34,edith
+30,5,6,Markovic's background,34,edith
+31,6,7,current status of Markovic,34,edith
+32,7,8,Markovic impact on Serbian politics,34,edith
+33,8,9,Markovic opinion on Milosevic's presidency,34,edith
+34,9,10,Markovic legacy in Serbian history,34,edith
+35,0,1,law enforcement dogs history,35,edith
+36,1,2,common law enforcement dog breeds,35,edith
+37,2,3,law enforcement dog training,35,edith
+38,3,4,law enforcement dog tasks,35,edith
+39,4,5,law enforcement dog success rate,35,edith
+40,5,6,law enforcement dog handler role,35,edith
+41,6,7,law enforcement dog legal requirements,35,edith
+42,7,8,law enforcement dog ethical considerations,35,edith
+43,8,9,law enforcement dog cost,35,edith
+44,9,10,international law enforcement dog regulations,35,edith
+45,0,1,Three Gorges Project,31,john
+46,1,2,Three Gorges Project status,31,john
+47,2,3,Three Gorges Project completion date,31,john
+48,3,4,Three Gorges Project cost,31,john
+49,4,5,Three Gorges Project electrical output,31,john
+50,0,1,tire recycling,32,john
+51,1,2,advantageous uses of recycled tires,32,john
+52,2,3,destructive distillation,32,john
+53,3,4,valuable chemicals from scrap rubber,32,john
+54,4,5,recycled tires for reef building,32,john
+55,5,6,fish habitats with recycled tires,32,john
+56,6,7,recycled tires in asphalt mixes,32,john
+57,7,8,burning for heat generation,32,john
+58,8,9,recycled tires for heat generation,32,john
+59,9,10,new uses for old automobile tires,32,john
+60,0,1,stolen art definition,33,john
+61,1,2,forged art definition,33,john
+62,2,3,incidents of stolen art,33,john
+63,3,4,incidents of forged art,33,john
+64,4,5,stolen or forged art media,33,john
+65,5,6,mass-produced art definition,33,john
+66,6,7,mass-produced art reproductions relevance,33,john
+67,7,8,pirated software definition,33,john
+68,8,9,pirated media relevance,33,john
+69,9,10,consequences of possessing stolen or forged art,33,john
+70,0,1,Mirjana Markovic,34,john
+71,1,2,Milosevic and Markovic relationship,34,john
+72,2,3,Milosevic's wife nickname,34,john
+73,3,4,Markovic role in Serbian politics,34,john
+74,4,5,Markovic background,34,john
+75,5,6,Markovic current status,34,john
+76,6,7,Markovic impact on Milosevic's career,34,john
+77,7,8,Markovic involvement in Milosevic's regime,34,john
+78,8,9,Markovic and Yugoslav Left party connection,34,john
+79,9,10,Markovic legal status,34,john
+80,0,1,law enforcement dogs role,35,john
+81,1,2,law enforcement dogs operation,35,john
+82,2,3,law enforcement dog breeds,35,john
+83,3,4,law enforcement dog training,35,john
+84,4,5,law enforcement dog handler training,35,john
+85,5,6,law enforcement dogs benefits,35,john
+86,6,7,law enforcement dogs risks,35,john
+87,7,8,law enforcement dogs history,35,john
+88,8,9,law enforcement dogs worldwide use,35,john
+89,9,10,law enforcement dogs legal implications,35,john
+90,0,1,Three Gorges Project,31,karen
+91,1,2,Three Gorges Project status,31,karen
+92,2,3,Three Gorges Project completion date,31,karen
+93,3,4,Three Gorges Project total cost,31,karen
+94,4,5,Three Gorges Project electrical output,31,karen
+95,0,1,advantageous uses recycled tires,32,karen
+96,1,2,destructive distillation scrap rubber,32,karen
+97,2,3,valuable chemicals scrap rubber,32,karen
+98,3,4,recycled tires reef building,32,karen
+99,4,5,recycled tires fish habitats,32,karen
+100,5,6,recycled tires asphalt mixes,32,karen
+101,6,7,advantages recycled tires asphalt,32,karen
+102,7,8,burning recycled tires heat,32,karen
+103,8,9,benefits burning recycled tires,32,karen
+104,9,10,new uses recycled tires,32,karen
+105,0,1,art definition,33,karen
+106,1,2,stolen art examples,33,karen
+107,2,3,forged art examples,33,karen
+108,3,4,stolen forged art incidents,33,karen
+109,4,5,media affected stolen forged art,33,karen
+110,5,6,mass-produced art definition,33,karen
+111,6,7,mass-produced art reproductions examples,33,karen
+112,7,8,pirated software definition,33,karen
+113,8,9,pirated music definition,33,karen
+114,9,10,pirated movies definition,33,karen
+115,0,1,Mirjana Markovic,34,karen
+116,1,2,Milosevic and Markovic relationship,34,karen
+117,2,3,Markovic nickname Mira,34,karen
+118,3,4,Markovic role in Milosevic presidency,34,karen
+119,4,5,Markovic background,34,karen
+120,5,6,Markovic political ideology,34,karen
+121,6,7,Markovic impact on Serbian politics,34,karen
+122,7,8,Markovic legacy,34,karen
+123,8,9,Markovic controversy,34,karen
+124,9,10,Markovic current status,34,karen
+125,0,1,dogs in law enforcement,35,karen
+126,1,2,law enforcement dog training,35,karen
+127,2,3,specific uses of law enforcement dogs,35,karen
+128,3,4,history of law enforcement dogs,35,karen
+129,4,5,breeds of law enforcement dogs,35,karen
+130,5,6,benefits of law enforcement dogs,35,karen
+131,6,7,legal considerations for law enforcement dogs,35,karen
+132,7,8,relationship between law enforcement dogs and handlers,35,karen
+133,8,9,challenges of law enforcement dogs,35,karen
+134,9,10,regulation of law enforcement dogs worldwide,35,karen
+135,0,1,Three Gorges Project,31,markus
+136,1,2,Three Gorges Project status,31,markus
+137,2,3,Three Gorges Project completion date,31,markus
+138,3,4,Three Gorges Project total cost,31,markus
+139,4,5,Three Gorges Project electrical output,31,markus
+140,0,1,tire recycling,32,markus
+141,1,2,advantageous uses of recycled tires,32,markus
+142,2,3,destructive distillation,32,markus
+143,3,4,valuable chemicals from scrap rubber,32,markus
+144,4,5,recycled tires for reef building,32,markus
+145,5,6,recycled tires as filler or binder,32,markus
+146,6,7,recycled tires for heat generation,32,markus
+147,7,8,benefits of recycled tires for heat generation,32,markus
+148,8,9,environmental impacts of recycled tires,32,markus
+149,9,10,new uses for old automobile tires,32,markus
+150,0,1,art theft,33,markus
+151,1,2,art forgery,33,markus
+152,2,3,famous art theft cases,33,markus
+153,3,4,famous art forgery cases,33,markus
+154,4,5,value of stolen art,33,markus
+155,5,6,punishment for art theft forgery,33,markus
+156,6,7,identifying forged art,33,markus
+157,7,8,history of art theft forgery,33,markus
+158,8,9,impact of art theft forgery,33,markus
+159,9,10,mass-produced art reproductions,33,markus
+160,0,1,Mirjana Markovic,34,markus
+161,1,2,Milosevic and Markovic relationship,34,markus
+162,2,3,Milosevic wife nickname,34,markus
+163,3,4,Markovic role in Serbian politics,34,markus
+164,4,5,Markovic opinion on political issues,34,markus
+165,5,6,Markovic background,34,markus
+166,6,7,Markovic impact on Milosevic presidency,34,markus
+167,7,8,Markovic involvement in Yugoslav Wars,34,markus
+168,8,9,Markovic current status,34,markus
+169,9,10,Markovic legacy in Serbian history,34,markus
+170,0,1,dogs law enforcement role,35,markus
+171,1,2,law enforcement dog training,35,markus
+172,2,3,dogs law enforcement operations,35,markus
+173,3,4,history dogs law enforcement,35,markus
+174,4,5,breeds dogs law enforcement,35,markus
+175,5,6,selecting dogs law enforcement,35,markus
+176,6,7,handlers law enforcement dogs,35,markus
+177,7,8,benefits dogs law enforcement,35,markus
+178,8,9,risks dogs law enforcement,35,markus
+179,9,10,regulation dogs law enforcement worldwide,35,markus
+0,0,1,UV damage eyes,36,edith
+1,1,2,UV exposure eye diseases,36,edith
+2,2,3,treatments for UV damage,36,edith
+3,3,4,education programs UV damage prevention,36,edith
+4,4,5,what are cataracts,36,edith
+5,5,6,cataracts UV damage relation,36,edith
+6,6,7,what is ocular melanoma,36,edith
+7,7,8,ocular melanoma UV damage relation,36,edith
+8,8,9,UV damage prevention methods,36,edith
+9,9,10,long-term consequences UV damage eyes,36,edith
+10,0,1,what is stoicism,37,edith
+11,1,2,Greek stoic philosophers,37,edith
+12,2,3,contemporary stoicism references,37,edith
+13,3,4,Greek stoic play productions,37,edith
+14,4,5,new stoic artistic productions,37,edith
+15,5,6,Greek stoicism history,37,edith
+16,6,7,stoicism modern philosophy influence,37,edith
+17,7,8,stoicism criticisms,37,edith
+18,8,9,stoicism relationship Greek philosophies,37,edith
+19,9,10,stoicism impact Greek culture,37,edith
+20,0,1,population control measures,38,edith
+21,1,2,countries with successful population control,38,edith
+22,2,3,results of population reduction measures,38,edith
+23,3,4,successful population control programs,38,edith
+24,4,5,effective population control methods,38,edith
+25,5,6,successful population control policies,38,edith
+26,6,7,effective population control strategies,38,edith
+27,7,8,successful population control initiatives,38,edith
+28,8,9,effective population control interventions,38,edith
+29,9,10,successful population control measures,38,edith
+30,0,1,railway accidents,39,edith
+31,1,2,causes of railway accidents,39,edith
+32,2,3,worldwide railway accidents causes,39,edith
+33,3,4,types of railway accidents,39,edith
+34,4,5,impact of railway accidents,39,edith
+35,5,6,common causes of railway accidents,39,edith
+36,6,7,railroad system in railway accidents,39,edith
+37,7,8,vehicles in railway accidents,39,edith
+38,8,9,pedestrians in railway accidents,39,edith
+39,9,10,safety measures railway accidents prevention,39,edith
+40,0,1,recent inventions,40,edith
+41,1,2,new scientific discoveries,40,edith
+42,2,3,most recent invention,40,edith
+43,3,4,latest scientific discovery,40,edith
+44,4,5,non-patentable scientific discoveries,40,edith
+45,5,6,recent patentable inventions,40,edith
+46,6,7,recent medical discoveries,40,edith
+47,7,8,recent technology discoveries,40,edith
+48,8,9,recent biology discoveries,40,edith
+49,9,10,recent chemistry discoveries,40,edith
+50,0,1,UV damage eyes diseases,36,john
+51,1,2,UV damage eyes treatments,36,john
+52,2,3,UV damage eyes prevention education,36,john
+53,3,4,UV damage eyes cataracts relationship,36,john
+54,4,5,UV damage eyes ocular melanoma relationship,36,john
+55,5,6,UV damage eyes symptoms,36,john
+56,6,7,UV damage eyes prevention,36,john
+57,7,8,UV damage eyes long-term effects,36,john
+58,8,9,UV damage eyes prevalence,36,john
+59,9,10,UV damage eyes treatment cost,36,john
+60,0,1,what is stoicism,37,john
+61,1,2,Greek stoic philosophers,37,john
+62,2,3,contemporary stoicism references,37,john
+63,3,4,new stoic plays,37,john
+64,4,5,stoic artistic productions,37,john
+65,5,6,history of Greek stoicism,37,john
+66,6,7,key principles of stoicism,37,john
+67,7,8,stoicism and modern philosophy,37,john
+68,8,9,stoicism and ethics,37,john
+69,9,10,reason in stoicism,37,john
+70,0,1,population growth,38,john
+71,1,2,measures to curb population growth,38,john
+72,2,3,countries curbing population growth,38,john
+73,3,4,results of population reduction measures,38,john
+74,4,5,effective measures for population reduction,38,john
+75,5,6,successful countries in population reduction,38,john
+76,6,7,successful measures in population reduction,38,john
+77,7,8,consequences of population growth,38,john
+78,8,9,benefits of population reduction,38,john
+79,9,10,challenges of population reduction,38,john
+80,0,1,railway accidents,39,john
+81,1,2,causes of railway accidents,39,john
+82,2,3,worldwide railway accidents causes,39,john
+83,3,4,impact of railway accidents,39,john
+84,4,5,types of railway accidents,39,john
+85,5,6,railroad system role in railway accidents,39,john
+86,6,7,vehicles role in railway accidents,39,john
+87,7,8,pedestrians role in railway accidents,39,john
+88,8,9,frequency of railway accidents,39,john
+89,9,10,consequences of railway accidents,39,john
+90,0,1,new inventions,40,john
+91,1,2,recent scientific discoveries,40,john
+92,2,3,non-patentable scientific discoveries,40,john
+93,3,4,patentable scientific discoveries,40,john
+94,4,5,recent technological advancements,40,john
+95,5,6,recent medical advancements,40,john
+96,6,7,recent environmental discoveries,40,john
+97,7,8,recent energy discoveries,40,john
+98,8,9,recent AI discoveries,40,john
+99,9,10,recent robotics discoveries,40,john
+100,0,1,UV damage eyes diseases,36,karen
+101,1,2,UV damage eyes treatments,36,karen
+102,2,3,UV damage eyes prevention programs,36,karen
+103,3,4,cataracts UV damage eyes,36,karen
+104,4,5,ocular melanoma UV damage eyes,36,karen
+105,5,6,UV damage eyes symptoms,36,karen
+106,6,7,preventing UV damage eyes,36,karen
+107,7,8,long-term effects UV damage eyes,36,karen
+108,8,9,risk factors UV damage eyes,36,karen
+109,9,10,types UV radiation eyes effects,36,karen
+110,0,1,what is stoicism,37,karen
+111,1,2,Greek stoic philosophers,37,karen
+112,2,3,contemporary stoic productions,37,karen
+113,3,4,Greek stoic plays,37,karen
+114,4,5,history of stoicism,37,karen
+115,5,6,relevance of stoicism today,37,karen
+116,6,7,modern interpretations of stoicism,37,karen
+117,7,8,famous stoic quotes,37,karen
+118,8,9,impact of stoicism on modern philosophy,37,karen
+119,9,10,criticisms of stoicism,37,karen
+120,0,1,population reduction measures,38,karen
+121,1,2,countries curbing population growth,38,karen
+122,2,3,population reduction results,38,karen
+123,3,4,successful population reduction programs,38,karen
+124,4,5,unsuccessful population reduction programs,38,karen
+125,5,6,population control policies,38,karen
+126,6,7,population control methods,38,karen
+127,7,8,population control strategies,38,karen
+128,8,9,population control techniques,38,karen
+129,9,10,population control initiatives,38,karen
+130,0,1,railway accidents,39,karen
+131,1,2,causes of railway accidents,39,karen
+132,2,3,types of railway accidents,39,karen
+133,3,4,frequency of railway accidents,39,karen
+134,4,5,dangerous railway accidents,39,karen
+135,5,6,common causes of railway accidents,39,karen
+136,6,7,vehicles in railway accidents,39,karen
+137,7,8,pedestrian railway accidents,39,karen
+138,8,9,global impact of railway accidents,39,karen
+139,9,10,recent railway accidents,39,karen
+140,0,1,recent inventions,40,karen
+141,1,2,new scientific discoveries,40,karen
+142,2,3,patentable inventions,40,karen
+143,3,4,non-patentable scientific discoveries,40,karen
+144,4,5,notable recent inventions,40,karen
+145,5,6,groundbreaking scientific discoveries,40,karen
+146,6,7,popular new inventions,40,karen
+147,7,8,controversial scientific discoveries,40,karen
+148,8,9,new inventions Texas,40,karen
+149,9,10,recent medical discoveries,40,karen
+150,0,1,UV damage eyes,36,markus
+151,1,2,UV light eye damage,36,markus
+152,2,3,diseases from UV exposure,36,markus
+153,3,4,treatments for UV eye damage,36,markus
+154,4,5,preventing UV eye damage,36,markus
+155,5,6,what is cataracts,36,markus
+156,6,7,cataracts treatment,36,markus
+157,7,8,what is ocular melanoma,36,markus
+158,8,9,ocular melanoma treatment,36,markus
+159,9,10,preventing UV eye damage methods,36,markus
+160,0,1,Greek philosophy,37,markus
+161,1,2,stoicism,37,markus
+162,2,3,Greek stoic philosophers,37,markus
+163,3,4,references to stoicism,37,markus
+164,4,5,Greek stoic play productions,37,markus
+165,5,6,new stoic artistic productions,37,markus
+166,6,7,contemporary interest stoicism,37,markus
+167,7,8,history Greek stoicism,37,markus
+168,8,9,principles Greek stoicism,37,markus
+169,9,10,impact Greek stoicism modern society,37,markus
+170,0,1,population growth,38,markus
+171,1,2,population reduction measures,38,markus
+172,2,3,countries curbing population growth,38,markus
+173,3,4,effective population reduction measures,38,markus
+174,4,5,results of population reduction,38,markus
+175,5,6,impact of population growth environment,38,markus
+176,6,7,long-term consequences population growth,38,markus
+177,7,8,social implications population growth,38,markus
+178,8,9,economic implications population growth,38,markus
+179,9,10,political implications population growth,38,markus
+180,0,1,railway accidents,39,markus
+181,1,2,causes of railway accidents,39,markus
+182,2,3,common causes railway accidents,39,markus
+183,3,4,types of railway accidents,39,markus
+184,4,5,frequency railway accidents,39,markus
+185,5,6,history railway accidents,39,markus
+186,6,7,dangerous railway accidents,39,markus
+187,7,8,common railway accidents,39,markus
+188,8,9,causes railway accidents world,39,markus
+189,9,10,recent railway accidents,39,markus
+190,0,1,new inventions,40,markus
+191,1,2,recent scientific discoveries,40,markus
+192,2,3,patentable inventions,40,markus
+193,3,4,non-patentable scientific discoveries,40,markus
+194,4,5,inventing process,40,markus
+195,5,6,scientific discovery process,40,markus
+196,6,7,famous inventors,40,markus
+197,7,8,famous scientists,40,markus
+198,8,9,world-changing inventions,40,markus
+199,9,10,world-changing scientific discoveries,40,markus
+0,0,1,heroic acts,41,edith
+1,1,2,selfless heroic acts,41,edith
+2,2,3,individual heroic acts,41,edith
+3,3,4,group heroic acts,41,edith
+4,4,5,benefit of heroic acts,41,edith
+5,5,6,who benefits from heroic acts,41,edith
+6,6,7,cause of heroic acts,41,edith
+7,7,8,selflessness in heroic acts,41,edith
+8,8,9,impact of heroic acts,41,edith
+9,9,10,characteristics of heroic individuals,41,edith
+10,0,1,U.S. investment sub-Saharan Africa,42,edith
+11,1,2,U.S. government investment sub-Saharan Africa,42,edith
+12,2,3,private investment sub-Saharan Africa,42,edith
+13,3,4,U.S. assistance sub-Saharan Africa,42,edith
+14,4,5,U.S. membership aid organizations,42,edith
+15,5,6,impact U.S. investment sub-Saharan Africa,42,edith
+16,6,7,challenges investing sub-Saharan Africa,42,edith
+17,7,8,success stories U.S. investment sub-Saharan Africa,42,edith
+18,8,9,future prospects U.S. investment sub-Saharan Africa,42,edith
+19,9,10,risks U.S. investment sub-Saharan Africa,42,edith
+20,0,1,women clergy role,43,edith
+21,1,2,countries with women pastors,43,edith
+22,2,3,countries considering women pastors,43,edith
+23,3,4,installing women as pastors,43,edith
+24,4,5,women clergy history,43,edith
+25,5,6,challenges for women pastors,43,edith
+26,6,7,impact of women clergy,43,edith
+27,7,8,United States women pastors,43,edith
+28,8,9,women pastors vs other capacities,43,edith
+29,9,10,current state women clergy worldwide,43,edith
+30,0,1,Flavr Savr tomato,44,edith
+31,1,2,Flavr Savr tomato developer,44,edith
+32,2,3,Flavr Savr tomato market,44,edith
+33,3,4,unique Flavr Savr tomato,44,edith
+34,4,5,benefits Flavr Savr tomato,44,edith
+35,5,6,drawbacks Flavr Savr tomato,44,edith
+36,6,7,history genetically modified food,44,edith
+37,7,8,Calgene genetically modified food,44,edith
+38,8,9,regulations genetically modified food,44,edith
+39,9,10,current status Flavr Savr tomato,44,edith
+40,0,1,France nuclear testing history,45,edith
+41,1,2,South Pacific definition,45,edith
+42,2,3,nuclear testing effects,45,edith
+43,3,4,South Pacific nuclear testing history,45,edith
+44,4,5,France nuclear testing protests,45,edith
+45,5,6,France response to nuclear testing protests,45,edith
+46,6,7,France nuclear testing current status,45,edith
+47,7,8,international response to France nuclear testing,45,edith
+48,8,9,France nuclear testing environmental impact,45,edith
+49,9,10,France nuclear testing political impact,45,edith
+50,0,1,heroic acts,41,john
+51,1,2,selfless acts,41,john
+52,2,3,examples of heroic acts,41,john
+53,3,4,examples of selfless acts,41,john
+54,4,5,individual heroic acts,41,john
+55,5,6,small group heroic acts,41,john
+56,6,7,acts that benefit others,41,john
+57,7,8,acts that benefit a cause,41,john
+58,8,9,characteristics of heroic acts,41,john
+59,9,10,motivations for heroic acts,41,john
+60,0,1,U.S. investment sub-Saharan Africa extent,42,john
+61,1,2,U.S. government investment sub-Saharan Africa,42,john
+62,2,3,private sector investment sub-Saharan Africa,42,john
+63,3,4,U.S. assistance sub-Saharan Africa extent,42,john
+64,4,5,U.S. contributions sub-Saharan Africa,42,john
+65,5,6,U.S. international aid organizations sub-Saharan Africa,42,john
+66,6,7,nature U.S. investment sub-Saharan Africa,42,john
+67,7,8,impact U.S. investment sub-Saharan Africa,42,john
+68,8,9,challenges U.S. investment sub-Saharan Africa,42,john
+69,9,10,future U.S. investment sub-Saharan Africa,42,john
+70,0,1,women in the church,43,john
+71,1,2,countries with women pastors,43,john
+72,2,3,countries considering women pastors,43,john
+73,3,4,installing women pastors,43,john
+74,4,5,history of women in clergy,43,john
+75,5,6,qualifications for women pastors,43,john
+76,6,7,church approval of women pastors,43,john
+77,7,8,women in US church,43,john
+78,8,9,current state of women clergy,43,john
+79,9,10,challenges for women clergy,43,john
+80,0,1,Flavr Savr tomato,44,john
+81,1,2,Flavr Savr tomato developer,44,john
+82,2,3,Flavr Savr tomato market introduction,44,john
+83,3,4,genetically modified food definition,44,john
+84,4,5,unique features Flavr Savr tomato,44,john
+85,5,6,benefits Flavr Savr tomato,44,john
+86,6,7,risks Flavr Savr tomato,44,john
+87,7,8,Calgene role Flavr Savr tomato,44,john
+88,8,9,public perception Flavr Savr tomato,44,john
+89,9,10,current status Flavr Savr tomato,44,john
+90,0,1,France nuclear testing history,45,john
+91,1,2,protests against France nuclear testing,45,john
+92,2,3,France response to protests,45,john
+93,3,4,South Pacific response to France nuclear testing,45,john
+94,4,5,consequences of France nuclear testing,45,john
+95,5,6,current status France nuclear testing,45,john
+96,6,7,legal framework France nuclear testing,45,john
+97,7,8,environmental impact France nuclear testing,45,john
+98,8,9,political impact France nuclear testing,45,john
+99,9,10,social impact France nuclear testing,45,john
+100,0,1,heroic acts definition,41,karen
+101,1,2,examples of heroic acts,41,karen
+102,2,3,selfless acts,41,karen
+103,3,4,individual heroic acts,41,karen
+104,4,5,small group heroic acts,41,karen
+105,5,6,benefits of heroic acts,41,karen
+106,6,7,causes benefited by heroic acts,41,karen
+107,7,8,recent heroic acts,41,karen
+108,8,9,impact of heroic acts,41,karen
+109,9,10,motivation for heroic acts,41,karen
+110,0,1,U.S. investment sub-Saharan Africa,42,karen
+111,1,2,U.S. government investment sub-Saharan Africa,42,karen
+112,2,3,private U.S. investment sub-Saharan Africa,42,karen
+113,3,4,impact U.S. investment sub-Saharan Africa,42,karen
+114,4,5,U.S. contributions international aid sub-Saharan Africa,42,karen
+115,5,6,U.S. contributions aid organizations sub-Saharan Africa,42,karen
+116,6,7,history U.S. investment sub-Saharan Africa,42,karen
+117,7,8,challenges U.S. investment sub-Saharan Africa,42,karen
+118,8,9,benefits U.S. investment sub-Saharan Africa,42,karen
+119,9,10,future U.S. investment sub-Saharan Africa,42,karen
+120,0,1,women in the church,43,karen
+121,1,2,countries with women clergy,43,karen
+122,2,3,installing women as clergy,43,karen
+123,3,4,church pastor role,43,karen
+124,4,5,countries considering women clergy,43,karen
+125,5,6,countries with approved women clergy,43,karen
+126,6,7,nun vs clergy,43,karen
+127,7,8,history of women in clergy,43,karen
+128,8,9,challenges for women clergy,43,karen
+129,9,10,impact of women clergy,43,karen
+130,0,1,Flavr Savr tomato,44,karen
+131,1,2,Flavr Savr tomato developer,44,karen
+132,2,3,Flavr Savr tomato market,44,karen
+133,3,4,unique Flavr Savr tomato,44,karen
+134,4,5,benefits Flavr Savr tomato,44,karen
+135,5,6,drawbacks Flavr Savr tomato,44,karen
+136,6,7,genetically modified food process,44,karen
+137,7,8,Calgene genetically modified food,44,karen
+138,8,9,public opinion genetically modified food,44,karen
+139,9,10,future genetically modified food,44,karen
+140,0,1,France nuclear testing history,45,karen
+141,1,2,protests against France nuclear testing,45,karen
+142,2,3,France response to nuclear testing protests,45,karen
+143,3,4,impact of France nuclear testing South Pacific,45,karen
+144,4,5,current status France nuclear testing,45,karen
+145,5,6,environmental consequences France nuclear testing,45,karen
+146,6,7,political impact France nuclear testing,45,karen
+147,7,8,public opinion France nuclear testing,45,karen
+148,8,9,international response France nuclear testing,45,karen
+149,9,10,legal status France nuclear testing,45,karen
+150,0,1,heroic act definition,41,markus
+151,1,2,heroic act examples,41,markus
+152,2,3,selfless act definition,41,markus
+153,3,4,selfless heroic acts,41,markus
+154,4,5,heroic vs selfless acts,41,markus
+155,5,6,individual heroic acts,41,markus
+156,6,7,small group heroic acts,41,markus
+157,7,8,heroic acts that benefit others,41,markus
+158,8,9,heroic acts that benefit a cause,41,markus
+159,9,10,accounts of selfless heroic acts,41,markus
+160,0,1,U.S. investment sub-Saharan Africa,42,markus
+161,1,2,U.S. invest sub-Saharan Africa,42,markus
+162,2,3,U.S. governmental investment sub-Saharan Africa,42,markus
+163,3,4,U.S. private investment sub-Saharan Africa,42,markus
+164,4,5,U.S. contributions sub-Saharan Africa,42,markus
+165,5,6,U.S. contributions international aid sub-Saharan Africa,42,markus
+166,6,7,nature U.S. investment sub-Saharan Africa,42,markus
+167,7,8,benefits U.S. investment sub-Saharan Africa,42,markus
+168,8,9,challenges U.S. investment sub-Saharan Africa,42,markus
+169,9,10,impact U.S. investment sub-Saharan Africa,42,markus
+170,0,1,women church role,43,markus
+171,1,2,clergy definition,43,markus
+172,2,3,women church pastors,43,markus
+173,3,4,countries women pastors,43,markus
+174,4,5,installing women pastors,43,markus
+175,5,6,women clergy history,43,markus
+176,6,7,women clergy challenges,43,markus
+177,7,8,women clergy impact,43,markus
+178,8,9,nun vs church pastor,43,markus
+179,9,10,US women clergy current,43,markus
+180,0,1,Flavr Savr tomato,44,markus
+181,1,2,Calgene Flavr Savr,44,markus
+182,2,3,Flavr Savr tomato market,44,markus
+183,3,4,Flavr Savr tomato differences,44,markus
+184,4,5,Flavr Savr tomato public reaction,44,markus
+185,5,6,Flavr Savr tomato impact,44,markus
+186,6,7,Flavr Savr tomato current status,44,markus
+187,7,8,Flavr Savr tomato benefits,44,markus
+188,8,9,Flavr Savr tomato drawbacks,44,markus
+189,9,10,future of genetically modified food,44,markus
+190,0,1,nuclear testing,45,markus
+191,1,2,France nuclear testing history,45,markus
+192,2,3,protests against France nuclear testing,45,markus
+193,3,4,France response to nuclear testing protests,45,markus
+194,4,5,France nuclear testing South Pacific,45,markus
+195,5,6,consequences France nuclear testing South Pacific,45,markus
+196,6,7,current status France nuclear testing,45,markus
+197,7,8,public opinion France nuclear testing,45,markus
+198,8,9,impact France nuclear testing environment,45,markus
+199,9,10,international response France nuclear testing,45,markus
+0,0,1,human stampede,46,edith
+1,1,2,public place human stampede,46,edith
+2,2,3,sporting event human stampede,46,edith
+3,3,4,bar human stampede,46,edith
+4,4,5,restaurant human stampede,46,edith
+5,5,6,entertainment event human stampede,46,edith
+6,6,7,20 or more deaths human stampede,46,edith
+7,7,8,causes of human stampedes,46,edith
+8,8,9,consequences of human stampedes,46,edith
+9,9,10,prevention of human stampedes,46,edith
+10,0,1,food stamps,47,edith
+11,1,2,food stamp law,47,edith
+12,2,3,changes to food stamp law,47,edith
+13,3,4,food stamp eligibility,47,edith
+14,4,5,food stamp recipients number,47,edith
+15,5,6,increase in food stamp recipients,47,edith
+16,6,7,food stamp eligible groups,47,edith
+17,7,8,immigrants food stamps,47,edith
+18,8,9,food stamp benefits,47,edith
+19,9,10,consequences of food stamp increase,47,edith
+20,0,1,Leaning Tower of Pisa condition,48,edith
+21,1,2,Leaning Tower of Pisa reinforcement measures,48,edith
+22,2,3,successful Leaning Tower of Pisa reinforcement,48,edith
+23,3,4,Leaning Tower of Pisa measurements changes,48,edith
+24,4,5,Leaning Tower of Pisa stabilization,48,edith
+25,0,1,college education benefits,49,edith
+26,1,2,college graduate advantages,49,edith
+27,2,3,college education hiring potential,49,edith
+28,3,4,college education impact income,49,edith
+29,4,5,U.S. college advantages,49,edith
+30,5,6,college graduate job opportunities,49,edith
+31,6,7,college education job prospects,49,edith
+32,7,8,college education income correlation,49,edith
+33,8,9,hiring college graduates benefits,49,edith
+34,9,10,college education value workforce,49,edith
+35,0,1,human stampede,46,john
+36,1,2,public place human stampede,46,john
+37,2,3,sporting event human stampede,46,john
+38,3,4,bar human stampede,46,john
+39,4,5,restaurant human stampede,46,john
+40,5,6,entertainment event human stampede,46,john
+41,6,7,20 or more deaths human stampede,46,john
+42,7,8,causes of human stampedes,46,john
+43,8,9,consequences of human stampedes,46,john
+44,9,10,prevention of human stampedes,46,john
+45,0,1,food stamp law,47,john
+46,1,2,food stamp eligibility changes,47,john
+47,2,3,food stamp recipient increase,47,john
+48,3,4,impact of food stamp increase,47,john
+49,4,5,new food stamp eligible groups,47,john
+50,5,6,food stamp benefits,47,john
+51,6,7,food stamp requirements,47,john
+52,7,8,food stamp application process,47,john
+53,8,9,history of food stamp programs,47,john
+54,9,10,food stamp political climate,47,john
+55,0,1,Leaning Tower of Pisa condition,48,john
+56,1,2,stabilize Leaning Tower of Pisa,48,john
+57,2,3,successful Leaning Tower stabilization,48,john
+58,3,4,Leaning Tower reinforcement measures,48,john
+59,4,5,Leaning Tower change measurements,48,john
+60,0,1,college education benefits,49,john
+61,1,2,college education job opportunities,49,john
+62,2,3,college graduate hiring potential,49,john
+63,3,4,college graduate income potential,49,john
+64,4,5,U.S. college advantages,49,john
+65,5,6,college education vs vocational training,49,john
+66,6,7,college degree value job market,49,john
+67,7,8,long-term college education benefits,49,john
+68,8,9,short-term college education benefits,49,john
+69,9,10,college education return on investment,49,john
+70,0,1,human stampede,46,karen
+71,1,2,public place stampede,46,karen
+72,2,3,examples of stampedes,46,karen
+73,3,4,stampede death toll,46,karen
+74,4,5,causes of stampedes,46,karen
+75,5,6,prevent stampedes,46,karen
+76,6,7,impact of stampedes,46,karen
+77,7,8,comparison of stampedes,46,karen
+78,8,9,deadliest stampedes,46,karen
+79,9,10,history of stampedes,46,karen
+80,0,1,food stamp eligibility law,47,karen
+81,1,2,changes to food stamp eligibility,47,karen
+82,2,3,food stamp recipients number,47,karen
+83,3,4,increase in food stamp recipients,47,karen
+84,4,5,new food stamp eligible groups,47,karen
+85,5,6,impact of food stamp increase,47,karen
+86,6,7,food stamp benefits,47,karen
+87,7,8,food stamp requirements,47,karen
+88,8,9,consequences of not receiving food stamps,47,karen
+89,9,10,food stamp application process,47,karen
+90,0,1,Leaning Tower of Pisa condition,48,karen
+91,1,2,Leaning Tower of Pisa reinforcement measures,48,karen
+92,2,3,Leaning Tower of Pisa reinforcement success,48,karen
+93,3,4,Leaning Tower of Pisa measurements change,48,karen
+94,4,5,Leaning Tower of Pisa stabilize efforts,48,karen
+95,5,6,Leaning Tower of Pisa stabilize success,48,karen
+96,6,7,Leaning Tower of Pisa history,48,karen
+97,7,8,Leaning Tower of Pisa architecture,48,karen
+98,8,9,Leaning Tower of Pisa significance,48,karen
+99,9,10,Leaning Tower of Pisa tourist attraction,48,karen
+100,0,1,college education benefits,49,karen
+101,1,2,college degree advantage,49,karen
+102,2,3,college education job opportunities,49,karen
+103,3,4,college education income impact,49,karen
+104,4,5,U.S. college graduate advantages,49,karen
+105,5,6,college degree job seeker benefits,49,karen
+106,6,7,college education career prospects,49,karen
+107,7,8,college degree employment advantages,49,karen
+108,8,9,college education job market value,49,karen
+109,9,10,U.S. college education graduate benefits,49,karen
+110,0,1,human stampede,46,markus
+111,1,2,human stampede location,46,markus
+112,2,3,public place human stampede,46,markus
+113,3,4,20 or more deaths human stampede,46,markus
+114,4,5,human stampede reports,46,markus
+115,5,6,human stampede causes,46,markus
+116,6,7,human stampede consequences,46,markus
+117,7,8,human stampede prevention measures,46,markus
+118,8,9,human stampede history,46,markus
+119,9,10,human stampede impact society,46,markus
+120,0,1,food stamps,47,markus
+121,1,2,food stamp recipients,47,markus
+122,2,3,food stamp law,47,markus
+123,3,4,changes to food stamp law,47,markus
+124,4,5,food stamp eligibility,47,markus
+125,5,6,food stamp recipient increase,47,markus
+126,6,7,eligible food stamp groups,47,markus
+127,7,8,food stamp benefits impact,47,markus
+128,8,9,food stamp benefits,47,markus
+129,9,10,food stamp eligibility requirements,47,markus
+130,0,1,Leaning Tower of Pisa,48,markus
+131,1,2,Leaning Tower of Pisa condition,48,markus
+132,2,3,Leaning Tower of Pisa reinforcement measures,48,markus
+133,3,4,Leaning Tower of Pisa reinforcement success,48,markus
+134,4,5,Leaning Tower of Pisa measurements,48,markus
+135,5,6,Leaning Tower of Pisa stabilization efforts,48,markus
+136,6,7,Leaning Tower of Pisa history,48,markus
+137,7,8,Leaning Tower of Pisa architecture,48,markus
+138,8,9,Leaning Tower of Pisa significance,48,markus
+139,9,10,Leaning Tower of Pisa interesting facts,48,markus
+140,0,1,college education advantage,49,markus
+141,1,2,college education job opportunities,49,markus
+142,2,3,college graduate hiring potential,49,markus
+143,3,4,college graduate increased income,49,markus
+144,4,5,U.S. college education advantages,49,markus
+145,5,6,college attendance benefits,49,markus
+146,6,7,college education job prospects,49,markus
+147,7,8,college degree advantages,49,markus
+148,8,9,college education income impact,49,markus
+149,9,10,college education value,49,markus

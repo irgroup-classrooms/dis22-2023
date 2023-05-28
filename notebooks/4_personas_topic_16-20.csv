@@ -1,0 +1,201 @@
+,index,queries,topic,persona
+0,1,transportation tunnel disasters,16,edith
+1,2,examples of tunnel disasters,16,edith
+2,3,causes of tunnel disasters,16,edith
+3,4,effects of tunnel disasters,16,edith
+4,5,common tunnel disasters,16,edith
+5,6,history of tunnel disasters,16,edith
+6,7,safety measures for tunnel disasters,16,edith
+7,8,legal implications of tunnel disasters,16,edith
+8,9,economic impacts of tunnel disasters,16,edith
+9,10,environmental impacts of tunnel disasters,16,edith
+0,1,modern piracy,17,edith
+1,2,recent piracy instances,17,edith
+2,3,definition of piracy,17,edith
+3,4,piracy vs legal taking,17,edith
+4,5,consequences of piracy,17,edith
+5,6,history of piracy,17,edith
+6,7,causes of piracy,17,edith
+7,8,impact of piracy economy,17,edith
+8,9,international response piracy,17,edith
+9,10,methods of piracy boarding,17,edith
+0,1,Native American casino gambling,18,edith
+1,2,social implications casino gambling,18,edith
+2,3,Native American casino gambling local economies,18,edith
+3,4,Native American casino gambling Native American economies,18,edith
+4,5,legal aspects tribal autonomy casino gambling,18,edith
+5,6,Native American casino gambling growth,18,edith
+6,7,benefits Native American casino gambling,18,edith
+7,8,drawbacks Native American casino gambling,18,edith
+8,9,history Native American casino gambling,18,edith
+9,10,future Native American casino gambling,18,edith
+0,1,hydrogen energy,19,edith
+1,2,controlled hydrogen fusion,19,edith
+2,3,feasibility of hydrogen energy,19,edith
+3,4,status of hydrogen research,19,edith
+4,5,progress in hydrogen research,19,edith
+5,6,hydrogen fuel,19,edith
+6,7,hydrogen fuel engines,19,edith
+7,8,benefits of hydrogen energy,19,edith
+8,9,drawbacks of hydrogen energy,19,edith
+9,10,challenges in hydrogen technology development,19,edith
+0,1,what is the euro,20,edith
+1,2,euro opposition,20,edith
+2,3,countries opposing euro,20,edith
+3,4,individuals opposing euro reasons,20,edith
+4,5,consequences of euro opposition,20,edith
+5,6,benefits of euro opposition,20,edith
+6,7,economic implications euro opposition,20,edith
+7,8,political implications euro opposition,20,edith
+8,9,social implications euro opposition,20,edith
+9,10,historical reasons euro opposition,20,edith
+0,1,transportation tunnels,16,john
+1,2,examples of transportation tunnels,16,john
+2,3,transportation tunnel disasters,16,john
+3,4,causes of tunnel disasters,16,john
+4,5,accidental tunnel disasters,16,john
+5,6,planned tunnel disasters,16,john
+6,7,fire tunnel disasters,16,john
+7,8,earthquake tunnel disasters,16,john
+8,9,flood tunnel disasters,16,john
+9,10,explosion tunnel disasters,16,john
+0,1,definition of piracy,17,john
+1,2,modern piracy instances,17,john
+2,3,definition of boarding,17,john
+3,4,definition of taking control,17,john
+4,5,piracy vs legal taking,17,john
+5,6,non-relevant piracy documents,17,john
+6,7,history of piracy,17,john
+7,8,consequences of piracy,17,john
+8,9,international law piracy,17,john
+9,10,punishment for piracy,17,john
+0,1,Native American casino gambling,18,john
+1,2,Native American casino gambling social implications,18,john
+2,3,Native American casino gambling local economy effect,18,john
+3,4,Native American casino gambling Native American economy effect,18,john
+4,5,Native American casino gambling legal aspects tribal autonomy,18,john
+5,6,Native American casino gambling growth rate,18,john
+6,7,Native American casino gambling benefits,18,john
+7,8,Native American casino gambling drawbacks,18,john
+8,9,Native American casino gambling history,18,john
+9,10,Native American casino gambling future,18,john
+0,1,hydrogen energy,19,john
+1,2,hydrogen energy research status,19,john
+2,3,controlled hydrogen fusion,19,john
+3,4,hydrogen fuel feasibility,19,john
+4,5,hydrogen fuel benefits,19,john
+5,6,hydrogen fuel drawbacks,19,john
+6,7,hydrogen fuel challenges,19,john
+7,8,hydrogen energy potential future,19,john
+8,9,latest hydrogen energy developments,19,john
+9,10,hydrogen energy safety concerns,19,john
+0,1,what is the euro,20,john
+1,2,euro opposition,20,john
+2,3,countries opposing euro,20,john
+3,4,individuals opposing euro,20,john
+4,5,reasons for euro opposition,20,john
+5,6,euro opposition reasons,20,john
+6,7,consequences of euro opposition,20,john
+7,8,impact of euro opposition,20,john
+8,9,alternatives to euro,20,john
+9,10,history of euro opposition,20,john
+0,1,transportation tunnel disasters,16,karen
+1,2,examples of tunnel disasters,16,karen
+2,3,causes of tunnel disasters,16,karen
+3,4,effects of tunnel disasters,16,karen
+4,5,history of tunnel disasters,16,karen
+5,6,safety measures for tunnel disasters,16,karen
+6,7,legal implications of tunnel disasters,16,karen
+7,8,economic impacts of tunnel disasters,16,karen
+8,9,environmental impacts of tunnel disasters,16,karen
+9,10,emergency response for tunnel disasters,16,karen
+0,1,piracy definition,17,karen
+1,2,modern piracy instances,17,karen
+2,3,taking control of boats definition,17,karen
+3,4,legal taking vs piracy,17,karen
+4,5,national authority taking ships examples,17,karen
+5,6,fishing vessel clashes definition,17,karen
+6,7,relevant fishing vessel clashes conditions,17,karen
+7,8,piracy consequences,17,karen
+8,9,piracy causes,17,karen
+9,10,piracy history,17,karen
+0,1,Native American casino gambling,18,karen
+1,2,social implications of casino gambling,18,karen
+2,3,Native American casino gambling local economy effects,18,karen
+3,4,Native American casino gambling Native American economy effects,18,karen
+4,5,legal aspects of Native American casino gambling,18,karen
+5,6,Native American casino gambling growth,18,karen
+6,7,benefits of Native American casino gambling,18,karen
+7,8,drawbacks of Native American casino gambling,18,karen
+8,9,local residents opinions on casino gambling,18,karen
+9,10,Native American tribes opinions on casino gambling,18,karen
+0,1,hydrogen energy,19,karen
+1,2,controlled hydrogen fusion,19,karen
+2,3,research status hydrogen energy,19,karen
+3,4,progress hydrogen energy research,19,karen
+4,5,hydrogen fuel engines,19,karen
+5,6,feasibility hydrogen energy source,19,karen
+6,7,benefits hydrogen energy source,19,karen
+7,8,challenges hydrogen energy source,19,karen
+8,9,latest developments hydrogen energy research,19,karen
+9,10,potential applications hydrogen energy,19,karen
+0,1,euro currency,20,karen
+1,2,euro opposition,20,karen
+2,3,reasons for euro opposition,20,karen
+3,4,countries opposing euro,20,karen
+4,5,individuals opposing euro,20,karen
+5,6,consequences of euro opposition,20,karen
+6,7,benefits of euro opposition,20,karen
+7,8,history of euro opposition,20,karen
+8,9,current state of euro opposition,20,karen
+9,10,future implications of euro opposition,20,karen
+0,1,transportation tunnel disaster,16,markus
+1,2,examples of tunnel disasters,16,markus
+2,3,causes of tunnel disasters,16,markus
+3,4,effects of tunnel disasters,16,markus
+4,5,types of affected tunnels,16,markus
+5,6,history of tunnel disasters,16,markus
+6,7,preventative measures for tunnel disasters,16,markus
+7,8,consequences of tunnel disasters,16,markus
+8,9,recent tunnel disasters,16,markus
+9,10,similarities differences tunnel disasters,16,markus
+0,1,piracy definition,17,markus
+1,2,modern piracy instances,17,markus
+2,3,boat control definition,17,markus
+3,4,boat control examples,17,markus
+4,5,legal taking vs piracy,17,markus
+5,6,national authority role in piracy,17,markus
+6,7,fishing vessel clashes,17,markus
+7,8,relevant fishing vessel piracy,17,markus
+8,9,vessel boarding consequences,17,markus
+9,10,piracy consequences,17,markus
+0,1,Native American casino gambling,18,markus
+1,2,Native American casino gambling social implications,18,markus
+2,3,Native American casino gambling local economies,18,markus
+3,4,Native American casino gambling impact on Native American economies,18,markus
+4,5,Native American tribal autonomy in casino gambling,18,markus
+5,6,Native American casino gambling growth rate,18,markus
+6,7,benefits of Native American casino gambling,18,markus
+7,8,drawbacks of Native American casino gambling,18,markus
+8,9,history of Native American casino gambling,18,markus
+9,10,future of Native American casino gambling,18,markus
+0,1,hydrogen energy,19,markus
+1,2,controlled hydrogen fusion,19,markus
+2,3,hydrogen fuel use,19,markus
+3,4,hydrogen fuel benefits,19,markus
+4,5,hydrogen energy research status,19,markus
+5,6,hydrogen energy research progress,19,markus
+6,7,feasibility of hydrogen energy,19,markus
+7,8,challenges of hydrogen fuel,19,markus
+8,9,potential applications of hydrogen energy,19,markus
+9,10,environmental impact of hydrogen fuel,19,markus
+0,1,what is euro,20,markus
+1,2,euro opposition,20,markus
+2,3,reasons for euro opposition,20,markus
+3,4,countries opposing euro,20,markus
+4,5,individuals opposing euro,20,markus
+5,6,consequences of euro opposition,20,markus
+6,7,history of euro opposition,20,markus
+7,8,benefits of euro opposition,20,markus
+8,9,drawbacks of euro opposition,20,markus
+9,10,future of euro opposition,20,markus

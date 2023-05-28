@@ -1,0 +1,181 @@
+,index,queries,topic,persona
+0,1,Three Gorges Project,31,edith
+1,2,Three Gorges Project status,31,edith
+2,3,Three Gorges Project completion date,31,edith
+3,4,Three Gorges Project total cost,31,edith
+4,5,Three Gorges Project electrical output,31,edith
+0,1,tire recycling,32,edith
+1,2,uses for recycled tires,32,edith
+2,3,advantageous uses for recycled tires,32,edith
+3,4,destructive distillation,32,edith
+4,5,valuable chemicals from scrap rubber,32,edith
+5,6,recycled tires for reef building,32,edith
+6,7,fish habitats using recycled tires,32,edith
+7,8,recycled tires as filler binder asphalt,32,edith
+8,9,burning controlled environment,32,edith
+9,10,recycled tires for heat generation,32,edith
+0,1,art definition,33,edith
+1,2,stolen art,33,edith
+2,3,forged art,33,edith
+3,4,incidents stolen art,33,edith
+4,5,incidents forged art,33,edith
+5,6,media stolen art,33,edith
+6,7,media forged art,33,edith
+7,8,consequences stolen art,33,edith
+8,9,consequences forged art,33,edith
+9,10,history stolen forged art,33,edith
+0,1,Mirjana Markovic,34,edith
+1,2,Milosevic and Markovic relationship,34,edith
+2,3,Milosevic's wife nickname,34,edith
+3,4,Markovic's role in Milosevic's presidency,34,edith
+4,5,notable events involving Milosevic and Markovic,34,edith
+5,6,Markovic's background,34,edith
+6,7,current status of Markovic,34,edith
+7,8,Markovic impact on Serbian politics,34,edith
+8,9,Markovic opinion on Milosevic's presidency,34,edith
+9,10,Markovic legacy in Serbian history,34,edith
+0,1,law enforcement dogs history,35,edith
+1,2,common law enforcement dog breeds,35,edith
+2,3,law enforcement dog training,35,edith
+3,4,law enforcement dog tasks,35,edith
+4,5,law enforcement dog success rate,35,edith
+5,6,law enforcement dog handler role,35,edith
+6,7,law enforcement dog legal requirements,35,edith
+7,8,law enforcement dog ethical considerations,35,edith
+8,9,law enforcement dog cost,35,edith
+9,10,international law enforcement dog regulations,35,edith
+0,1,Three Gorges Project,31,john
+1,2,Three Gorges Project status,31,john
+2,3,Three Gorges Project completion date,31,john
+3,4,Three Gorges Project cost,31,john
+4,5,Three Gorges Project electrical output,31,john
+0,1,tire recycling,32,john
+1,2,advantageous uses of recycled tires,32,john
+2,3,destructive distillation,32,john
+3,4,valuable chemicals from scrap rubber,32,john
+4,5,recycled tires for reef building,32,john
+5,6,fish habitats with recycled tires,32,john
+6,7,recycled tires in asphalt mixes,32,john
+7,8,burning for heat generation,32,john
+8,9,recycled tires for heat generation,32,john
+9,10,new uses for old automobile tires,32,john
+0,1,stolen art definition,33,john
+1,2,forged art definition,33,john
+2,3,incidents of stolen art,33,john
+3,4,incidents of forged art,33,john
+4,5,stolen or forged art media,33,john
+5,6,mass-produced art definition,33,john
+6,7,mass-produced art reproductions relevance,33,john
+7,8,pirated software definition,33,john
+8,9,pirated media relevance,33,john
+9,10,consequences of possessing stolen or forged art,33,john
+0,1,Mirjana Markovic,34,john
+1,2,Milosevic and Markovic relationship,34,john
+2,3,Milosevic's wife nickname,34,john
+3,4,Markovic role in Serbian politics,34,john
+4,5,Markovic background,34,john
+5,6,Markovic current status,34,john
+6,7,Markovic impact on Milosevic's career,34,john
+7,8,Markovic involvement in Milosevic's regime,34,john
+8,9,Markovic and Yugoslav Left party connection,34,john
+9,10,Markovic legal status,34,john
+0,1,law enforcement dogs role,35,john
+1,2,law enforcement dogs operation,35,john
+2,3,law enforcement dog breeds,35,john
+3,4,law enforcement dog training,35,john
+4,5,law enforcement dog handler training,35,john
+5,6,law enforcement dogs benefits,35,john
+6,7,law enforcement dogs risks,35,john
+7,8,law enforcement dogs history,35,john
+8,9,law enforcement dogs worldwide use,35,john
+9,10,law enforcement dogs legal implications,35,john
+0,1,Three Gorges Project,31,karen
+1,2,Three Gorges Project status,31,karen
+2,3,Three Gorges Project completion date,31,karen
+3,4,Three Gorges Project total cost,31,karen
+4,5,Three Gorges Project electrical output,31,karen
+0,1,advantageous uses recycled tires,32,karen
+1,2,destructive distillation scrap rubber,32,karen
+2,3,valuable chemicals scrap rubber,32,karen
+3,4,recycled tires reef building,32,karen
+4,5,recycled tires fish habitats,32,karen
+5,6,recycled tires asphalt mixes,32,karen
+6,7,advantages recycled tires asphalt,32,karen
+7,8,burning recycled tires heat,32,karen
+8,9,benefits burning recycled tires,32,karen
+9,10,new uses recycled tires,32,karen
+0,1,art definition,33,karen
+1,2,stolen art examples,33,karen
+2,3,forged art examples,33,karen
+3,4,stolen forged art incidents,33,karen
+4,5,media affected stolen forged art,33,karen
+5,6,mass-produced art definition,33,karen
+6,7,mass-produced art reproductions examples,33,karen
+7,8,pirated software definition,33,karen
+8,9,pirated music definition,33,karen
+9,10,pirated movies definition,33,karen
+0,1,Mirjana Markovic,34,karen
+1,2,Milosevic and Markovic relationship,34,karen
+2,3,Markovic nickname Mira,34,karen
+3,4,Markovic role in Milosevic presidency,34,karen
+4,5,Markovic background,34,karen
+5,6,Markovic political ideology,34,karen
+6,7,Markovic impact on Serbian politics,34,karen
+7,8,Markovic legacy,34,karen
+8,9,Markovic controversy,34,karen
+9,10,Markovic current status,34,karen
+0,1,dogs in law enforcement,35,karen
+1,2,law enforcement dog training,35,karen
+2,3,specific uses of law enforcement dogs,35,karen
+3,4,history of law enforcement dogs,35,karen
+4,5,breeds of law enforcement dogs,35,karen
+5,6,benefits of law enforcement dogs,35,karen
+6,7,legal considerations for law enforcement dogs,35,karen
+7,8,relationship between law enforcement dogs and handlers,35,karen
+8,9,challenges of law enforcement dogs,35,karen
+9,10,regulation of law enforcement dogs worldwide,35,karen
+0,1,Three Gorges Project,31,markus
+1,2,Three Gorges Project status,31,markus
+2,3,Three Gorges Project completion date,31,markus
+3,4,Three Gorges Project total cost,31,markus
+4,5,Three Gorges Project electrical output,31,markus
+0,1,tire recycling,32,markus
+1,2,advantageous uses of recycled tires,32,markus
+2,3,destructive distillation,32,markus
+3,4,valuable chemicals from scrap rubber,32,markus
+4,5,recycled tires for reef building,32,markus
+5,6,recycled tires as filler or binder,32,markus
+6,7,recycled tires for heat generation,32,markus
+7,8,benefits of recycled tires for heat generation,32,markus
+8,9,environmental impacts of recycled tires,32,markus
+9,10,new uses for old automobile tires,32,markus
+0,1,art theft,33,markus
+1,2,art forgery,33,markus
+2,3,famous art theft cases,33,markus
+3,4,famous art forgery cases,33,markus
+4,5,value of stolen art,33,markus
+5,6,punishment for art theft forgery,33,markus
+6,7,identifying forged art,33,markus
+7,8,history of art theft forgery,33,markus
+8,9,impact of art theft forgery,33,markus
+9,10,mass-produced art reproductions,33,markus
+0,1,Mirjana Markovic,34,markus
+1,2,Milosevic and Markovic relationship,34,markus
+2,3,Milosevic wife nickname,34,markus
+3,4,Markovic role in Serbian politics,34,markus
+4,5,Markovic opinion on political issues,34,markus
+5,6,Markovic background,34,markus
+6,7,Markovic impact on Milosevic presidency,34,markus
+7,8,Markovic involvement in Yugoslav Wars,34,markus
+8,9,Markovic current status,34,markus
+9,10,Markovic legacy in Serbian history,34,markus
+0,1,dogs law enforcement role,35,markus
+1,2,law enforcement dog training,35,markus
+2,3,dogs law enforcement operations,35,markus
+3,4,history dogs law enforcement,35,markus
+4,5,breeds dogs law enforcement,35,markus
+5,6,selecting dogs law enforcement,35,markus
+6,7,handlers law enforcement dogs,35,markus
+7,8,benefits dogs law enforcement,35,markus
+8,9,risks dogs law enforcement,35,markus
+9,10,regulation dogs law enforcement worldwide,35,markus

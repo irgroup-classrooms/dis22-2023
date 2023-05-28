@@ -1,0 +1,151 @@
+,index,queries,topic,persona
+0,1,human stampede,46,edith
+1,2,public place human stampede,46,edith
+2,3,sporting event human stampede,46,edith
+3,4,bar human stampede,46,edith
+4,5,restaurant human stampede,46,edith
+5,6,entertainment event human stampede,46,edith
+6,7,20 or more deaths human stampede,46,edith
+7,8,causes of human stampedes,46,edith
+8,9,consequences of human stampedes,46,edith
+9,10,prevention of human stampedes,46,edith
+0,1,food stamps,47,edith
+1,2,food stamp law,47,edith
+2,3,changes to food stamp law,47,edith
+3,4,food stamp eligibility,47,edith
+4,5,food stamp recipients number,47,edith
+5,6,increase in food stamp recipients,47,edith
+6,7,food stamp eligible groups,47,edith
+7,8,immigrants food stamps,47,edith
+8,9,food stamp benefits,47,edith
+9,10,consequences of food stamp increase,47,edith
+0,1,Leaning Tower of Pisa condition,48,edith
+1,2,Leaning Tower of Pisa reinforcement measures,48,edith
+2,3,successful Leaning Tower of Pisa reinforcement,48,edith
+3,4,Leaning Tower of Pisa measurements changes,48,edith
+4,5,Leaning Tower of Pisa stabilization,48,edith
+0,1,college education benefits,49,edith
+1,2,college graduate advantages,49,edith
+2,3,college education hiring potential,49,edith
+3,4,college education impact income,49,edith
+4,5,U.S. college advantages,49,edith
+5,6,college graduate job opportunities,49,edith
+6,7,college education job prospects,49,edith
+7,8,college education income correlation,49,edith
+8,9,hiring college graduates benefits,49,edith
+9,10,college education value workforce,49,edith
+0,1,human stampede,46,john
+1,2,public place human stampede,46,john
+2,3,sporting event human stampede,46,john
+3,4,bar human stampede,46,john
+4,5,restaurant human stampede,46,john
+5,6,entertainment event human stampede,46,john
+6,7,20 or more deaths human stampede,46,john
+7,8,causes of human stampedes,46,john
+8,9,consequences of human stampedes,46,john
+9,10,prevention of human stampedes,46,john
+0,1,food stamp law,47,john
+1,2,food stamp eligibility changes,47,john
+2,3,food stamp recipient increase,47,john
+3,4,impact of food stamp increase,47,john
+4,5,new food stamp eligible groups,47,john
+5,6,food stamp benefits,47,john
+6,7,food stamp requirements,47,john
+7,8,food stamp application process,47,john
+8,9,history of food stamp programs,47,john
+9,10,food stamp political climate,47,john
+0,1,Leaning Tower of Pisa condition,48,john
+1,2,stabilize Leaning Tower of Pisa,48,john
+2,3,successful Leaning Tower stabilization,48,john
+3,4,Leaning Tower reinforcement measures,48,john
+4,5,Leaning Tower change measurements,48,john
+0,1,college education benefits,49,john
+1,2,college education job opportunities,49,john
+2,3,college graduate hiring potential,49,john
+3,4,college graduate income potential,49,john
+4,5,U.S. college advantages,49,john
+5,6,college education vs vocational training,49,john
+6,7,college degree value job market,49,john
+7,8,long-term college education benefits,49,john
+8,9,short-term college education benefits,49,john
+9,10,college education return on investment,49,john
+0,1,human stampede,46,karen
+1,2,public place stampede,46,karen
+2,3,examples of stampedes,46,karen
+3,4,stampede death toll,46,karen
+4,5,causes of stampedes,46,karen
+5,6,prevent stampedes,46,karen
+6,7,impact of stampedes,46,karen
+7,8,comparison of stampedes,46,karen
+8,9,deadliest stampedes,46,karen
+9,10,history of stampedes,46,karen
+0,1,food stamp eligibility law,47,karen
+1,2,changes to food stamp eligibility,47,karen
+2,3,food stamp recipients number,47,karen
+3,4,increase in food stamp recipients,47,karen
+4,5,new food stamp eligible groups,47,karen
+5,6,impact of food stamp increase,47,karen
+6,7,food stamp benefits,47,karen
+7,8,food stamp requirements,47,karen
+8,9,consequences of not receiving food stamps,47,karen
+9,10,food stamp application process,47,karen
+0,1,Leaning Tower of Pisa condition,48,karen
+1,2,Leaning Tower of Pisa reinforcement measures,48,karen
+2,3,Leaning Tower of Pisa reinforcement success,48,karen
+3,4,Leaning Tower of Pisa measurements change,48,karen
+4,5,Leaning Tower of Pisa stabilize efforts,48,karen
+5,6,Leaning Tower of Pisa stabilize success,48,karen
+6,7,Leaning Tower of Pisa history,48,karen
+7,8,Leaning Tower of Pisa architecture,48,karen
+8,9,Leaning Tower of Pisa significance,48,karen
+9,10,Leaning Tower of Pisa tourist attraction,48,karen
+0,1,college education benefits,49,karen
+1,2,college degree advantage,49,karen
+2,3,college education job opportunities,49,karen
+3,4,college education income impact,49,karen
+4,5,U.S. college graduate advantages,49,karen
+5,6,college degree job seeker benefits,49,karen
+6,7,college education career prospects,49,karen
+7,8,college degree employment advantages,49,karen
+8,9,college education job market value,49,karen
+9,10,U.S. college education graduate benefits,49,karen
+0,1,human stampede,46,markus
+1,2,human stampede location,46,markus
+2,3,public place human stampede,46,markus
+3,4,20 or more deaths human stampede,46,markus
+4,5,human stampede reports,46,markus
+5,6,human stampede causes,46,markus
+6,7,human stampede consequences,46,markus
+7,8,human stampede prevention measures,46,markus
+8,9,human stampede history,46,markus
+9,10,human stampede impact society,46,markus
+0,1,food stamps,47,markus
+1,2,food stamp recipients,47,markus
+2,3,food stamp law,47,markus
+3,4,changes to food stamp law,47,markus
+4,5,food stamp eligibility,47,markus
+5,6,food stamp recipient increase,47,markus
+6,7,eligible food stamp groups,47,markus
+7,8,food stamp benefits impact,47,markus
+8,9,food stamp benefits,47,markus
+9,10,food stamp eligibility requirements,47,markus
+0,1,Leaning Tower of Pisa,48,markus
+1,2,Leaning Tower of Pisa condition,48,markus
+2,3,Leaning Tower of Pisa reinforcement measures,48,markus
+3,4,Leaning Tower of Pisa reinforcement success,48,markus
+4,5,Leaning Tower of Pisa measurements,48,markus
+5,6,Leaning Tower of Pisa stabilization efforts,48,markus
+6,7,Leaning Tower of Pisa history,48,markus
+7,8,Leaning Tower of Pisa architecture,48,markus
+8,9,Leaning Tower of Pisa significance,48,markus
+9,10,Leaning Tower of Pisa interesting facts,48,markus
+0,1,college education advantage,49,markus
+1,2,college education job opportunities,49,markus
+2,3,college graduate hiring potential,49,markus
+3,4,college graduate increased income,49,markus
+4,5,U.S. college education advantages,49,markus
+5,6,college attendance benefits,49,markus
+6,7,college education job prospects,49,markus
+7,8,college degree advantages,49,markus
+8,9,college education income impact,49,markus
+9,10,college education value,49,markus

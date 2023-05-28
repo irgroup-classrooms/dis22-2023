@@ -1,0 +1,197 @@
+,index,queries,topic,persona
+0,1,oceanographic vessels,26,edith
+1,2,undersea mapping,26,edith
+2,3,oceanographic vessels global warming monitoring,26,edith
+3,4,marine environmental monitoring,26,edith
+4,5,deep sea robots sunken ships,26,edith
+5,6,oceanographic vessel equipment,26,edith
+6,7,oceanographic vessel equipment research development,26,edith
+7,8,oceanic resources,26,edith
+8,9,oceanographic vessels exploring oceanic resources,26,edith
+9,10,survey ship oceanographic activity,26,edith
+0,1,Amazon rain forest,27,edith
+1,2,official organizations institutions,27,edith
+2,3,measures to preserve,27,edith
+3,4,degrees of success,27,edith
+4,5,individuals roles,27,edith
+5,6,challenges in preservation,27,edith
+6,7,consequences of not preserving,27,edith
+7,8,history of Amazon rain forest,27,edith
+8,9,economic benefits of preservation,27,edith
+9,10,cultural significance to South America,27,edith
+0,1,Ireland peace talks history,28,edith
+1,2,peace talks violence disruption,28,edith
+2,3,causes peace talk disruption,28,edith
+3,4,Ireland peace talk outcomes,28,edith
+4,5,current status peace talks,28,edith
+5,6,violence role peace talks,28,edith
+6,7,challenges peace talks,28,edith
+7,8,key players peace talks,28,edith
+8,9,terms peace agreement Ireland,28,edith
+9,10,impact peace agreement Ireland,28,edith
+0,1,tropical storms,29,edith
+1,2,hurricanes vs typhoons,29,edith
+2,3,tropical storms property damage,29,edith
+3,4,tropical storms loss of life,29,edith
+4,5,recent tropical storm date,29,edith
+5,6,tropical storm affected areas,29,edith
+6,7,tropical storm damage extent,29,edith
+7,8,tropical storm casualties number,29,edith
+8,9,destructive tropical storms history,29,edith
+9,10,approaching tropical storm warning signs,29,edith
+0,1,Cuba sugar trade,30,edith
+1,2,Cuba sugar export,30,edith
+2,3,Cuba sugar export countries,30,edith
+3,4,Cuba sugar trade history,30,edith
+4,5,Cuba sugar export benefits,30,edith
+5,6,Cuba sugar export environment,30,edith
+6,7,Cuba sugar export society,30,edith
+7,8,Cuba sugar trade future,30,edith
+8,9,Cuba sugar export challenges,30,edith
+9,10,US sanctions Cuba sugar export,30,edith
+0,1,oceanographic vessels,26,john
+1,2,undersea mapping,26,john
+2,3,global warming monitoring,26,john
+3,4,marine environmental monitoring,26,john
+4,5,deep sea robots,26,john
+5,6,deep sea robots use,26,john
+6,7,oceanographic vessels sunken ships,26,john
+7,8,oceanographic vessels equipment research development,26,john
+8,9,oceanographic vessels oceanic resources exploration,26,john
+9,10,survey ship oceanographic activity,26,john
+0,1,Amazon rain forest,27,john
+1,2,official organizations preserving Amazon rain forest,27,john
+2,3,individuals preserving Amazon rain forest,27,john
+3,4,measures to preserve Amazon rain forest,27,john
+4,5,South American authorities preserving Amazon rain forest,27,john
+5,6,degree of success preserving Amazon rain forest,27,john
+0,1,Ireland peace talks status,28,john
+1,2,delayed peace talks Ireland,28,john
+2,3,disruptions in Ireland peace talks,28,john
+3,4,acts of violence Ireland peace talks,28,john
+4,5,preventing interruptions peace talks Ireland,28,john
+5,6,history of Ireland peace talks,28,john
+6,7,external factors Ireland peace talks,28,john
+7,8,political parties Ireland peace talks,28,john
+8,9,Brexit impact Ireland peace talks,28,john
+9,10,future of Ireland peace talks,28,john
+0,1,tropical storms,29,john
+1,2,hurricanes vs typhoons,29,john
+2,3,tropical storms property damage,29,john
+3,4,tropical storms loss of life,29,john
+4,5,recent tropical storm date,29,john
+5,6,tropical storm affected areas,29,john
+6,7,tropical storm damage extent,29,john
+7,8,tropical storm casualties number,29,john
+8,9,deadliest tropical storm record,29,john
+9,10,costliest tropical storm record,29,john
+0,1,Cuba sugar trade,30,john
+1,2,Cuban sugar exports,30,john
+2,3,Cuban sugar import countries,30,john
+3,4,Cuban sugar export volume,30,john
+4,5,Cuban sugar export value,30,john
+5,6,Cuban sugar export history,30,john
+6,7,Cuban sugar export regulations,30,john
+7,8,Cuban sugar export impact economy,30,john
+8,9,Cuban sugar export future,30,john
+9,10,Cuban sugar export challenges,30,john
+0,1,oceanographic vessels,26,karen
+1,2,oceanographic vessel activities,26,karen
+2,3,undersea mapping,26,karen
+3,4,global warming monitoring oceanographic vessels,26,karen
+4,5,marine environmental monitoring,26,karen
+5,6,deep sea robots oceanography,26,karen
+6,7,sunken ships oceanographic vessels,26,karen
+7,8,equipment aboard oceanographic vessels,26,karen
+8,9,research development equipment oceanographic vessels,26,karen
+9,10,oceanic resources exploration oceanographic vessels,26,karen
+0,1,Amazon rain forest,27,karen
+1,2,official organizations institutions Amazon rain forest,27,karen
+2,3,measures to preserve Amazon rain forest,27,karen
+3,4,success in preserving Amazon rain forest,27,karen
+4,5,individuals preserving Amazon rain forest,27,karen
+5,6,South American authorities Amazon rain forest,27,karen
+6,7,challenges preserving Amazon rain forest,27,karen
+7,8,consequences not preserving Amazon rain forest,27,karen
+8,9,economic benefits preserving Amazon rain forest,27,karen
+9,10,environmental benefits preserving Amazon rain forest,27,karen
+0,1,Ireland peace talks history,28,karen
+1,2,peace talks delays disruptions,28,karen
+2,3,reasons for delays disruptions,28,karen
+3,4,non-violent delays disruptions,28,karen
+4,5,consequences of delays disruptions,28,karen
+5,6,key players peace talks,28,karen
+6,7,outcomes peace talks,28,karen
+7,8,impact peace talks Ireland,28,karen
+8,9,challenges peace talks,28,karen
+9,10,international community peace talks role,28,karen
+0,1,tropical storms,29,karen
+1,2,hurricanes vs typhoons,29,karen
+2,3,tropical storms property damage,29,karen
+3,4,tropical storms loss of life,29,karen
+4,5,recent tropical storm date,29,karen
+5,6,tropical storm affected areas,29,karen
+6,7,tropical storm damage extent,29,karen
+7,8,tropical storm casualties,29,karen
+8,9,deadliest tropical storms,29,karen
+9,10,destructive tropical storms,29,karen
+0,1,Cuba sugar trade history,30,karen
+1,2,Cuba sugar production,30,karen
+2,3,Cuba sugar industry current,30,karen
+3,4,Cuba sugar exports volume,30,karen
+4,5,Cuba sugar exports countries,30,karen
+5,6,Cuba sugar exports price,30,karen
+6,7,Cuba sugar exports quality,30,karen
+7,8,Cuba sugar exports trade agreements,30,karen
+8,9,Cuba sugar exports impact,30,karen
+9,10,Cuba sugar trade future,30,karen
+0,1,oceanographic vessels,26,markus
+1,2,undersea mapping,26,markus
+2,3,oceanographic vessels global warming,26,markus
+3,4,marine environmental monitoring,26,markus
+4,5,deep sea robots oceanography,26,markus
+5,6,oceanographic vessels sunken ships,26,markus
+6,7,oceanographic vessel equipment,26,markus
+7,8,oceanographic vessels research development,26,markus
+8,9,oceanographic vessels oceanic resources,26,markus
+9,10,survey ship oceanographic activity,26,markus
+0,1,Amazon rain forest,27,markus
+1,2,official organizations Amazon rain forest,27,markus
+2,3,institutions Amazon rain forest,27,markus
+3,4,individuals Amazon rain forest,27,markus
+4,5,measures to preserve Amazon rain forest,27,markus
+5,6,degrees of success Amazon rain forest,27,markus
+6,7,countries in Amazon rain forest,27,markus
+7,8,official authorities South America Amazon rain forest,27,markus
+8,9,measures local South American authorities Amazon rain forest,27,markus
+9,10,degrees of success measures local South American authorities Amazon rain forest,27,markus
+0,1,Ireland peace talks,28,markus
+1,2,peace talks disruptions,28,markus
+2,3,cause of peace talks disruptions,28,markus
+3,4,violence and peace talks,28,markus
+4,5,Ireland peace process,28,markus
+5,6,current peace process status,28,markus
+6,7,history of peace process,28,markus
+7,8,violence impact on peace process,28,markus
+8,9,consequences of peace talks disruption,28,markus
+9,10,government role in peace process,28,markus
+0,1,tropical storms,29,markus
+1,2,hurricanes vs typhoons,29,markus
+2,3,tropical storms property damage,29,markus
+3,4,tropical storms loss of life,29,markus
+4,5,recent tropical storm date,29,markus
+5,6,tropical storm affected areas,29,markus
+6,7,tropical storm damage extent,29,markus
+7,8,tropical storm casualties,29,markus
+8,9,most destructive tropical storm,29,markus
+9,10,likelihood of tropical storm Sheffield,29,markus
+0,1,Cuba sugar trade,30,markus
+1,2,Cuba sugar exports,30,markus
+2,3,Cuba sugar export countries,30,markus
+3,4,Cuba sugar trade history,30,markus
+4,5,Cuba sugar export benefits,30,markus
+5,6,Cuba sugar export environment,30,markus
+6,7,Cuba sugar export politics,30,markus
+7,8,Cuba sugar trade culture,30,markus
+8,9,Cuba sugar export challenges,30,markus
+9,10,Cuba sugar trade future,30,markus
