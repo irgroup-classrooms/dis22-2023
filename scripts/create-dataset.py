@@ -44,7 +44,6 @@ def save_result(file, result: tuple[str, str, str]):
     result_dict = {"query": query, "result": queries, "persona": persona}
     result_json = json.dumps(result_dict)
     with open(file, "a") as f:
-        print(result_json)
         f.write(result_json + "\n")
 
 
