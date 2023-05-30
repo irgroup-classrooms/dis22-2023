@@ -11,7 +11,7 @@ class Persona:
     name: str
     age: int = None
     gender: str = None
-    job: str = None
+    profession: str = None
     goal: str = None
     residence: str = None
     query_length: int = None
@@ -203,7 +203,7 @@ class Query():
         self.query = self.query.replace(param, attr)
 
 
-    def generate_query(self, topic: str, narrative: str=None, description: str=None, n_queries:int=5) -> str:
+    def generate_query(self, title: str, narr: str=None, desc: str=None, n_queries:int=5) -> str:
         """Generate a query
 
         Args:
@@ -218,16 +218,16 @@ class Query():
         if not self.query:
             raise ValueError("No query selected. Please select a query.")
 
-        if not topic:
-            raise ValueError("No topic selected. Please select a topic.")
+        if not title:
+            raise ValueError("No title selected. Please select a title.")
 
-        query = self.query + f"\nPlease generate {n_queries} search queries that could have been written by {self.persona.name} to do research on the following\nTopic: {topic}."
+        query = self.query + f"\nPlease generate {n_queries} search queries that could have been written by {self.persona.name} to do research on the following\nTopic: {title}."
 
-        if narrative:
-            query += f"\nNarrative: {narrative}"
+        if narr:
+            query += f"\nNarrative: {narr}"
 
 
-        if description:
-            query += f"\nDescription: {description}"
+        if desc:
+            query += f"\nDescription: {desc}"
 
         return query

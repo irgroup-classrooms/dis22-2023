@@ -2,9 +2,9 @@
     "name": "Mr. John Doe",
     "age": 55,
     "gender": "male",
-    "job": "lawyer",
+    "profession": "lawyer",
     "goal": "inform about legal inquiries",
     "residence": "new york",
     "query_length": 4,
-    "complexity": null
+    "complexity": "english as a native speaker, uses legal terms in latin"
 }

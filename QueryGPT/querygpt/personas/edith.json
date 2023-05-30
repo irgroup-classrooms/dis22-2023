@@ -2,9 +2,9 @@
     "name": "Edith",
     "age": 75,
     "gender": "female",
-    "job": "retired",
+    "profession": "retired",
     "goal": "researching background information",
     "residence": "suburbs of san diego",
     "query_length": 4,
-    "complexity": null
+    "complexity": "like an english native would"
 }

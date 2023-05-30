@@ -2,9 +2,9 @@
     "name": "Karen",
     "age": 45,
     "gender": "female",
-    "job": "working for the church board",
+    "profession": "working for the church board",
     "goal": "write a short article for the church magazine",
     "residence": "texas",
     "query_length": 4,
-    "complexity": null
+    "complexity": "as a non academical english native"
 }
