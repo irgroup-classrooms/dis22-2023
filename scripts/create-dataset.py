@@ -7,9 +7,9 @@ from functools import partial
 
 
 def create_dataset_line(nist, persona_name, result_file="dataset.jsonl"):
-    topic, query = nist
+    topic_id, query = nist
     content_dict  = send_query(query)
-    save_result(result_file, (topic, query, content_dict, persona_name))
+    save_result(result_file, (topic_id, query, content_dict, persona_name))
 
 
 def send_query(query):
@@ -42,16 +42,16 @@ def send_query(query):
 
 def save_result(file, result: tuple[str, str, str, str]):
     topic, query, queries, persona = result
-    result_dict = {"topic": topic, "query": query, "result": queries, "persona": persona}
+    result_dict = {"topic_id": topic, "query": query, "result": queries, "persona": persona}
     result_json = json.dumps(result_dict)
     with open(file, "a") as f:
         f.write(result_json + "\n")
 
 
 if __name__ == '__main__':
-    openai.api_key = "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"
+    openai.api_key = ""
 
-    core_nist = json.load(open("../notebooks/core_nist.json", "r"))[1:]
+    core_nist = json.load(open("../notebooks/core_nist.json", "r"))
     
     
     for pers in Persona.list_register():
@@ -62,10 +62,10 @@ if __name__ == '__main__':
         query.try_query_mappings()
         queries = [
             (
-                nist["title"],
+                nist["topic_id"],
                 query.generate_query(title=nist["title"],
                                         desc=nist["desc"],
-                                        n_queries=5)
+                                        n_queries=10)
                                         )
                                         for nist in core_nist]
         

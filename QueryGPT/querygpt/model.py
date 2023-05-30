@@ -7,7 +7,7 @@ from copy import deepcopy
 @dataclass
 class DatasetEntry:
     """Dataclass for dataset Entry"""
-    topic: str
+    topic_id: str
     query: str
     persona_name: str
     keywords: str
@@ -17,7 +17,7 @@ class DatasetEntry:
     @staticmethod
     def from_json(line: str):
         jsonl = json.loads(line)
-        return DatasetEntry(jsonl["topic"], jsonl["query"], jsonl["persona"], jsonl["result"]["keywords"], jsonl["result"]["questions"], jsonl["result"]["queries"])
+        return DatasetEntry(jsonl["topic_id"], jsonl["query"], jsonl["persona"], jsonl["result"]["keywords"], jsonl["result"]["questions"], jsonl["result"]["queries"])
 
     def extract_answers(self):
         ds_dict = deepcopy(self.__dict__)
@@ -26,10 +26,11 @@ class DatasetEntry:
         del ds_dict["questions"]
         answer = [
                     {
-                        "topic": ds_dict["topic"],
                         "query_id": result,
-                        "query": ds_dict["result_queries"][result],
                         "persona": ds_dict["persona_name"], 
+                        "topic_id": ds_dict["topic_id"],
+                        "query": ds_dict["result_queries"][result],
+                        
                     }
                     for result in ds_dict["result_queries"]]
         return answer
