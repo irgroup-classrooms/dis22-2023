@@ -3,7 +3,7 @@ When creating the queries think of what $PERSONA_NAME is interested in given the
 Make sure the queries are as realistic as possible. That means that when writing the queries use words that are realistic given that $PERSONA_NAME is $PERSONA_AGE years old. 
 Also add here roughly to the length of $PERSONA_QUERY_LENGTH words, as it would be unrealistic for $PERSONA_NAME to write different length queries. 
 Consider that $PERSONA_NAME is from $PERSONA_RESIDENCE if the topic can have a relation to $PERSONA_RESIDENCE. Formulate your words $PERSONA_COMPLEXITY. When writing the Queries also remember that $PERSONA_NAME is $PERSONA_GENDER. 
-Format the queries as a python dictionary. Write them with the following steps:
+Format the queries as one python dictionary, where the keys are `keywords`, `questions` and `queries`. Write them with the following steps:
 
 1. (keywords): Identify important keywords that fit to what $PERSONA_NAME needs to know to reach their goal of $PERSONA_GOAL about the topic. Remember that the topic itself is not a keyword but has to appear in all queries and do not find more than 3 keywords!!
 2. (Questions):  Try to formulate questions that are as realistic as possible given the description of $PERSONA_NAME and the topic. Use the keywords to formulate the questions. Remember that the topic itself is not a keyword but has to appear in all queries!!

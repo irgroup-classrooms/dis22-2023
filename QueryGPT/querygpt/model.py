@@ -2,7 +2,6 @@ import json
 from dataclasses import dataclass
 from pathlib import Path
 import re
-import openai
 
 
 @dataclass
@@ -221,7 +220,7 @@ class Query():
         if not title:
             raise ValueError("No title selected. Please select a title.")
 
-        query = self.query + f"\nPlease generate {n_queries} search queries that could have been written by {self.persona.name} to do research on the following\nTopic: {title}."
+        query = self.query + f"\nPlease generate {n_queries} search queries that could have been written by {self.persona.name} to do research on the following.\nTopic: {title}."
 
         if narr:
             query += f"\nNarrative: {narr}"
