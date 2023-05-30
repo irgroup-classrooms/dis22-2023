@@ -1,0 +1,10 @@
+{
+    "name": "Markus",
+    "age": 9,
+    "gender": "male",
+    "profession": "lazy student",
+    "goal": "create a ten minute presentation",
+    "residence": "sheffield",
+    "query_length": 4,
+    "complexity": "as if english was his second language"
+}

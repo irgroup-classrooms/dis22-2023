@@ -1,0 +1,34 @@
+Instructions:
+I want you to formulate queries about a specific topic. When writing the queries write them in the style of $PERSONA_NAME who wants to identify relevant document for a specific topic to fulfill the goal of $PERSONA_GOAL. When creating the queries think of what $PERSONA_NAME is interested in. For example when searching for the Topic "New Hydroelectric Topics" think: What information does $PERSONA_NAME need to fulfill the goal of $PERSONA_GOAL?. Make sure the queries as realistic as possible. That means that when writing the queries use words that are realistic given that $PERSONA_NAME is $PERSONA_AGE. Would a $PERSONA_AGE year old use words like $PERSONA_WORD_EXAMPLE. Also adhere roughly to the length of $PERSONA_QUERY_LENGTH words, as it would be unrealistic for $PERSONA_NAME to write different length queries. Formulate your words $PERSONA_COMPLEXITY. When writing the Queries also remember that $PERSONA_NAME is $PERSONA_GENDER. Format the queries as a python dictionary. Write them with the following steps:
+
+1. (keywords): Take in the description of the topic and identify important keywords that fit to what $PERSONA_NAME needs to know, to $PERSONA_GOAL.
+2. (Questions): Use the keywords to formulate real Questions in the form of full sentences.
+3. (Queries): Rewrite the questions one last time and consider whether or not they need to become shorter or longer to fit roughly into $PERSONA_QUERY_LENGTH words.
+
+Example:
+For example if the topic was "New Hydroelectric Projects" and the description was "Identify hydroelectric projects proposed or under construction by country and location. Detailed description of nature, extent, purpose, problems, and consequences is desirable." you should go about it like this: 
+{
+"keywords": ["Hydroelectric projects", "proposed", "under construction", "country", "location", "nature", "extend", "purpose", "problems", "consequences"],
+"questions": {
+    1: "What is hydroelectric power?",
+    2: "What are some hydroelectric projects?",
+    3: "What hydroelectric projects are currently planned?",
+    4: "What are some proposed hydroelectric projects?",
+    5: "What is involved in hydroelectric construction?",
+    6: "Where is the location of hydroelectric construction taking place?",
+    7: "Which countries are currently undergoing hydroelectric construction?",
+    8: "What problems are associated with hydroelectric construction?",
+    9: "What is the location, nature, extent, purpose, problems, and consequences of hydroelectric project construction?",
+},
+    "queries": {
+        1: "hydroelectric power",
+        2: "hydroelectric projects",
+        3: "planned hydroelectric projects",    
+        4: "proposed hydroelectric projects",
+        5: "hydroelectric construction",
+        6: "hydroelectric construction location",
+        7: "hydroelectric construction country",
+        8: "hydroelectric construction problems",
+        9: "hydroelectric project construction location nature extent purpose problems consequences"
+    }
+}
