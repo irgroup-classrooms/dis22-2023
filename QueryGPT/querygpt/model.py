@@ -2,7 +2,38 @@ import json
 from dataclasses import dataclass
 from pathlib import Path
 import re
+from copy import deepcopy
 
+@dataclass
+class DatasetEntry:
+    """Dataclass for dataset Entry"""
+    topic: str
+    query: str
+    persona_name: str
+    keywords: str
+    questions: str
+    result_queries: str
+
+    @staticmethod
+    def from_json(line: str):
+        jsonl = json.loads(line)
+        return DatasetEntry(jsonl["topic"], jsonl["query"], jsonl["persona"], jsonl["result"]["keywords"], jsonl["result"]["questions"], jsonl["result"]["queries"])
+
+    def extract_answers(self):
+        ds_dict = deepcopy(self.__dict__)
+        del ds_dict["query"]
+        del ds_dict["keywords"]
+        del ds_dict["questions"]
+        answer = [
+                    {
+                        "topic": ds_dict["topic"],
+                        "query_id": result,
+                        "query": ds_dict["result_queries"][result],
+                        "persona": ds_dict["persona_name"], 
+                    }
+                    for result in ds_dict["result_queries"]]
+        return answer
+    
 
 @dataclass
 class Persona:
