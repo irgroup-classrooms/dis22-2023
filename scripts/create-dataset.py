@@ -40,7 +40,8 @@ def send_query(query):
     return None
 
 
-def save_result(file, result: tuple[str, str, str, str]):
+def save_result(file, result: "tuple[str, str, str, str]"):
+    
     topic, query, queries, persona = result
     result_dict = {"topic_id": topic, "query": query, "result": queries, "persona": persona}
     result_json = json.dumps(result_dict)
