@@ -2,8 +2,39 @@ import json
 from dataclasses import dataclass
 from pathlib import Path
 import re
-import openai
+from copy import deepcopy
 
+@dataclass
+class DatasetEntry:
+    """Dataclass for dataset Entry"""
+    topic_id: str
+    query: str
+    persona_name: str
+    keywords: str
+    questions: str
+    result_queries: str
+
+    @staticmethod
+    def from_json(line: str):
+        jsonl = json.loads(line)
+        return DatasetEntry(jsonl["topic_id"], jsonl["query"], jsonl["persona"], jsonl["result"]["keywords"], jsonl["result"]["questions"], jsonl["result"]["queries"])
+
+    def extract_answers(self):
+        ds_dict = deepcopy(self.__dict__)
+        del ds_dict["query"]
+        del ds_dict["keywords"]
+        del ds_dict["questions"]
+        answer = [
+                    {
+                        "query_id": result,
+                        "persona": ds_dict["persona_name"], 
+                        "topic_id": ds_dict["topic_id"],
+                        "query": ds_dict["result_queries"][result],
+                        
+                    }
+                    for result in ds_dict["result_queries"]]
+        return answer
+    
 
 @dataclass
 class Persona:
@@ -221,7 +252,7 @@ class Query():
         if not title:
             raise ValueError("No title selected. Please select a title.")
 
-        query = self.query + f"\nPlease generate {n_queries} search queries that could have been written by {self.persona.name} to do research on the following\nTopic: {title}."
+        query = self.query + f"\nPlease generate {n_queries} search queries that could have been written by {self.persona.name} to do research on the following.\nTopic: {title}."
 
         if narr:
             query += f"\nNarrative: {narr}"
